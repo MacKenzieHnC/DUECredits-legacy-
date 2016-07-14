@@ -1,0 +1,341 @@
+Class,Legality,Name,Price,Encumbrance,Rarity,Type,Index
+Gear,Nonrestricted,Eyes of Laqasa,2000,0,10,Ancient Talismans,NoP:108
+Gear,Restricted,Demon Mask,4000,1,10,Ancient Talismans,FaD-CRB:190
+Gear,Nonrestricted,Grimoire of Syclos the Lame,4000,0,10,Ancient Talismans,NoP:107
+Gear,Restricted,Meditation Focus,4000,1,10,Ancient Talismans,FaD-CRB:190
+Gear,Nonrestricted,Crown of Verity,6000,0,9,Ancient Talismans,NoP:110
+Gear,Nonrestricted,Tears of the Elders,7500,0,9,Ancient Talismans,NoP:107
+Gear,Nonrestricted,Herder's Gauntlet,8000,0,9,Ancient Talismans,NoP:110
+Gear,Restricted,Talisman of Iron Fists,8000,1,10,Ancient Talismans,FaD-CRB:190
+Gear,Nonrestricted,Dram of Orphne,9000,0,8,Ancient Talismans,NoP:111
+Gear,Nonrestricted,Taradon's Helm,11000,0,10,Ancient Talismans,NoP:112
+Gear,Nonrestricted,Dolina Ring Seeds,18000,0,10,Ancient Talismans,NoP:113
+Gear,Restricted,Master Lodaka's Lightsaber,20000,0,10,Ancient Talismans,NoP:112
+Gear,Nonrestricted,Bardottan Sphere,50000,0,10,Ancient Talismans,NoP:109
+Gear,Restricted,Holocron,100000,1,10,Ancient Talismans,FaD-CRB:190
+Gear,Nonrestricted,Comlink (handheld),25,0,0,Communications,AoR-BGR:35* // AoR-CRB:186 // EotE-BGR:35* // EotE-CRB:171 // FaD-BGR:35* // FaD-CRB:180
+Gear,Nonrestricted,Herzfall Communications Collar-Amp,50,0,1,Communications,FH:45
+Gear,Nonrestricted,Polis Massan Voicebox,50,1,6,Communications,SoR:111
+Gear,Nonrestricted,PTP Link,100,2,7,Communications,SoR:111
+Gear,Nonrestricted,Comlink (long range),200,2,1,Communications,AoR-CRB:186 // EotE-CRB:171 // FaD-CRB:180
+Gear,Nonrestricted,Holo-Messenger,250,0,4,Communications,AoR-CRB:186 // EotE-CRB:171 // FaD-CRB:181
+Gear,Nonrestricted,Verpine Comlink,250,1,6,Communications,SoR:112
+Gear,Nonrestricted,Bespin Motors Remote DVI Activator (short range),300,0,4,Communications,SoF:100
+Gear,Nonrestricted,Taggeco Shockhold Hardened Comlink,450,3,4,Communications,DC:56
+Gear,Nonrestricted,Cirenian Communications Pioneer Long-Range Transceiver,1000,5,3,Communications,SoF:100
+Gear,Nonrestricted,Carbanti United Electronics Whistler,1250,3,6,Communications,SoF:100
+Gear,Nonrestricted,False Voice Transmitter,1400,4,6,Communications,SoR:111
+Gear,Nonrestricted,Bespin Motors Remote DVI Activator (long range),1500,0,7,Communications,SoF:100
+Gear,Nonrestricted,Bothawui Communications Conglomerate HSI-280 Hyperwave Signal Interceptor,10500,5,8,Communications,SoF:101
+Gear,Nonrestricted,Chedak Communications X-500 Portable Holonet Relay,75000,15,7,Communications,FH:45
+Gear,Nonrestricted,Nala Tree Frog,15,1,5,Consumables,LoNH:110
+Gear,Nonrestricted,Corellian Whiskey (bottle),25,1,2,Consumables,SoF:102
+Gear,Nonrestricted,Synthetic Anesthetic,35,0,4,Consumables,AoR-CRB:188 // EotE-CRB:172* // FaD-CRB:181
+Gear,Restricted,Synthetic Neurotoxin,50,0,6,Consumables,AoR-CRB:188 // EotE-CRB:172* // FaD-CRB:181
+Gear,Restricted,Synthetic Neuroparalytic,75,0,6,Consumables,AoR-CRB:188 // EotE-CRB:172* // FaD-CRB:181
+Gear,Nonrestricted,Whyren's Reserve (bottle),100,1,4,Consumables,SoF:102
+Gear,Nonrestricted,Corellian Whiskey (25 bottle case),500,20,2,Consumables,SoF:102
+Gear,Nonrestricted,Whyren's Reserve (20 bottle case),1500,10,5,Consumables,SoF:102
+Gear,Nonrestricted,Gank Comm Implant,250,0,7,Cybernetics,LoNH:107
+Gear,Nonrestricted,Neural Recorder,250,0,8,Cybernetics,SM:50
+Gear,Nonrestricted,Neuro-Saav Cyborg/Droid Interface,600,0,4,Cybernetics,SoR:112
+Gear,Nonrestricted,Appraiser's Eye,700,0,7,Cybernetics,FC:48
+Gear,Restricted,Cybernetic Cavity,775,0,3,Cybernetics,FC:48
+Gear,Restricted,Escape Circuit,1000,0,6,Cybernetics,SM:49
+Gear,Nonrestricted,Prosthetic Replacement (Organ),1000,0,4,Cybernetics,AoR-CRB:190 // EotE-CRB:175* // FaD-CRB:184
+Gear,Nonrestricted,Surge Override Switch,1000,0,6,Cybernetics,SM:50
+Gear,Restricted,Networked Slicing Uplink,1250,0,7,Cybernetics,SM:50
+Gear,Nonrestricted,Cybernetic Respirator,2000,0,4,Cybernetics,LoNH:107
+Gear,Nonrestricted,Prosthetic Replacement (Limb),2000,0,4,Cybernetics,AoR-CRB:190 // EotE-CRB:175* // FaD-CRB:184
+Gear,Nonrestricted,Adrenal Implant,2250,0,5,Cybernetics,LoNH:106
+Gear,Nonrestricted,Q-22 Retinal Tracker,2500,0,6,Cybernetics,LoNH:107
+Gear,Nonrestricted,Cybernetic Reflexes,2750,0,5,Cybernetics,LoNH:106
+Gear,Restricted,Digital Lockpick,2750,0,5,Cybernetics,FC:48
+Gear,Nonrestricted,Biofeedback Regulator,3000,0,8,Cybernetics,SM:49
+Gear,Restricted,Neuromachine Interface,3500,0,6,Cybernetics,LoNH:107
+Gear,Nonrestricted,Implanted Cyberjack,3750,0,6,Cybernetics,LoNH:107
+Gear,Nonrestricted,Cybernetic Weapon,4000,0,7,Cybernetics,AoR-CRB:190* // EotE-CRB:174
+Gear,Nonrestricted,Cyberscanner Limb,4000,0,7,Cybernetics,AoR-CRB:190 // EotE-CRB:174 // FaD-CRB:184
+Gear,Nonrestricted,Repulsor Fist,4750,0,7,Cybernetics,LoNH:107
+Gear,Nonrestricted,Immune Implant,5000,0,6,Cybernetics,AoR-CRB:190 // EotE-CRB:174
+Gear,Nonrestricted,Swift 78B Vessel Courier System,5000,0,6,Cybernetics,SoR:112
+Gear,Nonrestricted,Cybernetic Eyes,7500,0,6,Cybernetics,AoR-CRB:189 // EotE-CRB:174 // FaD-CRB:183
+Gear,Nonrestricted,Implant Armor,7500,0,6,Cybernetics,AoR-CRB:190 // EotE-CRB:174
+Gear,Nonrestricted,Taggeco CAAF-2 System Cybernetic Avionics Interface,8000,0,6,Cybernetics,SoF:101
+Gear,Nonrestricted,Cybernetic Arms (Mod V and Mod VI),10000,0,6,Cybernetics,AoR-CRB:189 // EotE-CRB:173 // FaD-CRB:182
+Gear,Nonrestricted,Cybernetic Brain Implant,10000,0,6,Cybernetics,AoR-CRB:189 // EotE-CRB:174 // FaD-CRB:183
+Gear,Nonrestricted,Cybernetic Legs (Mod II and Mod III),10000,0,6,Cybernetics,AoR-CRB:189 // EotE-CRB:173 // FaD-CRB:183
+Gear,Nonrestricted,Macrobinoculars,75,1,2,Detection Devices,AoR-BGR:35 // AoR-CRB:191 // EotE-BGR:35 // EotE-CRB:175 // FaD-BGR:35 // FaD-CRB:184
+Gear,Nonrestricted,Hand Scanner,100,0,2,Detection Devices,AoR-BGR:35 // AoR-CRB:191 // EotE-BGR:35 // EotE-CRB:176 // FaD-BGR:35 // FaD-CRB:185
+Gear,Nonrestricted,Scanner Goggles,150,0,3,Detection Devices,AoR-CRB:191 // EotE-CRB:175 // FaD-CRB:185
+Gear,Restricted,Surveillance Tagger,165,0,4,Detection Devices,AoR-CRB:191 // EotE-CRB:176
+Gear,Nonrestricted,Arakyd Industries Recon Remote,250,1,3,Detection Devices,DC:57
+Gear,Nonrestricted,Electrobinoculars,250,1,1,Detection Devices,AoR-BGR:35 // AoR-CRB:190 // EotE-BGR:35 // EotE-CRB:175 // FaD-BGR:35 // FaD-CRB:184
+Gear,Nonrestricted,PX-7 Heat Sensor,250,3,7,Detection Devices,KtP:50
+Gear,Nonrestricted,Chedak Mark 10 Demolitions Scanner,300,1,4,Detection Devices,DC:57
+Gear,Nonrestricted,Cargo Scanner,500,1,4,Detection Devices,FC:50
+Gear,Nonrestricted,General Purpose Scanner,500,2,3,Detection Devices,AoR-BGR:35 // AoR-CRB:191 // EotE-BGR:35 // EotE-CRB:175 // FaD-BGR:35 // FaD-CRB:185
+Gear,Nonrestricted,Hunting Goggles,600,0,5,Detection Devices,EtU:47
+Gear,Nonrestricted,Cryoncorp Armascan Weapon Detection Goggles,750,1,5,Detection Devices,SoF:101
+Gear,Nonrestricted,Cryoncorp Enhancescan Long-Range Terrain Scanner,850,6,6,Detection Devices,EtU:46
+Gear,Nonrestricted,Idellian Arrays ILF-6500 Life Form Scanner,900,4,5,Detection Devices,EtU:47
+Gear,Nonrestricted,Cryoncorp Ground-Penetrating Sensor Pack,950,5,1,Detection Devices,EtU:47
+Gear,Nonrestricted,Bardottan Chronoscanner,1200,0,2,Detection Devices,NoP:105
+Gear,Nonrestricted,Chedak Mark 6 Combat Scanner,2000,1,6,Detection Devices,DC:56
+Gear,Nonrestricted,Holoscanner,2000,10,5,Detection Devices,FC:48
+Gear,Nonrestricted,Veridicator 200,4000,1,8,Detection Devices,KtP:51
+Gear,Nonrestricted,Marksman-H Combat Training Remote,350,1,5,Droids,KtP:49
+Gear,Nonrestricted,Generic Remote,400,0,2,Droids,SM:53
+Gear,Nonrestricted,"RMD-20 ""Eye in the Sky""",500,1,4,Droids,KtP:50
+Gear,Nonrestricted,Butterbug Remote,700,0,4,Droids,SM:53
+Gear,Nonrestricted,Industrial Automation Hologlide J57 Cam Droid,800,0,3,Droids,SoF:102
+Gear,Nonrestricted,Medtech Mini-Med,900,0,3,Droids,FH:49
+Gear,Nonrestricted,Service Patch Remote,900,0,3,Droids,SM:53
+Gear,Nonrestricted,Shield Remote,1100,0,5,Droids,SM:53
+Gear,Nonrestricted,Q-4 Borer Droid,2000,0,5,Droids,SoR:113
+Gear,Nonrestricted,SoroSuub Corporation Wanderer Scout Surveyor,2500,0,6,Droids,EtU:57
+Gear,Nonrestricted,SoroSuub Wanderer Scout Survey Droid,2500,0,6,Droids,SoR:114
+Gear,Nonrestricted,SDMN Series Session Droid,4000,0,5,Droids,FH:50
+Gear,Nonrestricted,5YQ-Series Protol Droid,5500,0,3,Droids,DA:55
+Gear,Nonrestricted,SoroSuub Corporation 87-RM Scout Collector,6000,0,6,Droids,EtU:57
+Gear,Nonrestricted,SoroSuub G2 Repair Droid,6000,0,5,Droids,SoR:114
+Gear,Nonrestricted,Antiquated Battle Droid,6500,0,5,Droids,EotE-CRB:410
+Gear,Nonrestricted,Gyrowheel 1.42.08-Series Recycling Droid,6500,0,4,Droids,FH:50
+Gear,Nonrestricted,Q7-Series Astromech Droid,6500,0,8,Droids,SoT:47
+Gear,Nonrestricted,Roche J9 Worker Drone,7000,0,3,Droids,SoR:113
+Gear,Nonrestricted,Analysis Droid,7500,0,5,Droids,FaD-CRB:409
+Gear,Nonrestricted,Cybot Galactica K-9 Series Hunting Droid,7500,0,6,Droids,EtU:54
+Gear,Nonrestricted,Maintenance Droid,7500,0,3,Droids,AoR-CRB:428 // EotE-CRB:411
+Gear,Nonrestricted,3PX-Series Protocol Droid,7750,0,4,Droids,DA:54
+Gear,Nonrestricted,GV/3-series Guardian Droid,8000,10,7,Droids,KtP:49
+Gear,Nonrestricted,Industrial Automation FD-Series Extinguisher Droid,8000,10,4,Droids,SoF:102
+Gear,Nonrestricted,Protocol Droid,8000,0,4,Droids,AoR-CRB:429 // EotE-CRB:412 // FaD-CRB:410
+Gear,Restricted,T-Series Tactical Droid,8000,0,8,Droids,LBE:45
+Gear,Nonrestricted,Astromech Droid,8250,0,3,Droids,AoR-CRB:428 // EotE-CRB:410
+Gear,Nonrestricted,LOM-Series Protocol Droid,8500,0,5,Droids,DA:58
+Gear,Nonrestricted,Cybot Galactica/KDY All-Terrain Exploration Droid,8900,0,5,Droids,EtU:55
+Gear,Nonrestricted,CZ-Series Communications/Business Droid,9000,0,4,Droids,DA:55
+Gear,Restricted,AC Law Enforcement Droid,9600,0,5,Droids,FH:49
+Gear,Restricted,Interrogation Droid,9600,0,8,Droids,FaD-CRB:410
+Gear,Nonrestricted,Security Droid,9600,0,5,Droids,EotE-CRB:412
+Gear,Restricted,DZ-70 Fugitive Tracker Droid,9800,0,4,Droids,FH:49
+Gear,Nonrestricted,Merendata KLC Series Exchequer Droid,10000,0,5,Droids,EtU:56
+Gear,Nonrestricted,Roche Siak-series Protocol Droid,10000,0,4,Droids,SoR:113
+Gear,Nonrestricted,TC-Series Protocol Droid,10000,0,4,Droids,DA:55
+Gear,Nonrestricted,R7-Series Astromech Droid,11000,0,6,Droids,SoT:46
+Gear,Restricted,M-3PO-Series Military Protocol Droid,12000,0,5,Droids,DA:56
+Gear,Nonrestricted,Medical Droid,12000,0,4,Droids,AoR-CRB:428 // EotE-CRB:411 // FaD-CRB:410
+Gear,Restricted,Viper Probe Droid,13700,0,7,Droids,FaD-CRB:410
+Gear,Nonrestricted,Industrial Automation JC Series Pilot Droid,15000,0,7,Droids,EtU:56
+Gear,Nonrestricted,LRD-Series Envoy Droid,15000,0,5,Droids,DA:57
+Gear,Nonrestricted,CT-4 Medical Droid,20000,0,8,Droids,SoR:112
+Gear,Restricted,Assassin Droid,65000,0,8,Droids,AoR-CRB:427 // EotE-CRB:410
+Gear,Restricted,IG-100 MangnaGuard,90000,0,10,Droids,FaD-CRB:409
+Gear,Restricted,Death Sticks (1 dose),5,0,1,Drugs,EotE-CRB:185
+Gear,Restricted,Booster Blue (1 dose),10,0,5,Drugs,EotE-CRB:184
+Gear,Nonrestricted,Ryshcate (cake),10,0,2,Drugs,SoF:103
+Gear,Nonrestricted,Marcan Herb (1 dose),20,1,4,Drugs,LoNH:110
+Gear,Restricted,Avabush Spice (1 dose),35,0,6,Drugs,EotE-CRB:183
+Gear,Nonrestricted,Ji Rikknit (1 dose),50,0,6,Drugs,SoF:103
+Gear,Restricted,Muon Gold (1 dose),50,0,6,Drugs,FC:51
+Gear,Restricted,Ryll (1 dose),50,1,4,Drugs,LoNH:110
+Gear,Restricted,Gunjack Spice (1 dose),75,1,5,Drugs,LoNH:110
+Gear,Restricted,Glitterstim (1 dose),100,0,7,Drugs,EotE-CRB:184
+Gear,Restricted,Neutron Pixie (1 dose),100,1,6,Drugs,LoNH:111
+Gear,Nonrestricted,Sulfur Inhaler (10 doses),120,0,3,Drugs,NoP:105
+Gear,Restricted,Impact (1 dose),125,0,6,Drugs,FC:50
+Gear,Nonrestricted,Nannarium Root (1 dose),200,0,6,Drugs,SoF:103
+Gear,Restricted,Death Sticks (100 dose cargo container),250,3,2,Drugs,EotE-CRB:185
+Gear,Restricted,Yarrock (1 dose),350,0,8,Drugs,EotE-CRB:185
+Gear,Restricted,Lesai (1 dose),500,0,9,Drugs,EotE-CRB:184
+Gear,Restricted,Longsight (1 dose),650,0,8,Drugs,NoP:105
+Gear,Restricted,Booster Blue (100 dose cargo container),750,3,6,Drugs,EotE-CRB:184
+Gear,Nonrestricted,Marcan Herb (100 dose cargo container),1750,25,5,Drugs,LoNH:110
+Gear,Restricted,Avabush Spice (100 dose cargo container),2000,3,7,Drugs,EotE-CRB:183
+Gear,Restricted,Frangawl Force Powder (1 dose),2000,0,10,Drugs,NoP:105
+Gear,Nonrestricted,Ji Rikknit (100 dose cargo container),3000,5,7,Drugs,SoF:103
+Gear,Restricted,Muon Gold (100 dose cargo container),4000,3,6,Drugs,FC:51
+Gear,Restricted,Ryll (100 dose cargo container),4500,25,5,Drugs,LoNH:110
+Gear,Restricted,Glitterstim (100 dose cargo container),5000,5,8,Drugs,EotE-CRB:184
+Gear,Restricted,Lesai (20 dose enviro-sealed cargo pod),7500,2,10,Drugs,EotE-CRB:184
+Gear,Restricted,Gunjack Spice (100 dose cargo container),8500,25,7,Drugs,LoNH:110
+Gear,Restricted,Neutron Pixie (100 dose cargo container),8500,25,7,Drugs,LoNH:111
+Gear,Restricted,Impact (100 dose cargo container),10000,5,7,Drugs,FC:50
+Gear,Restricted,Yarrock (100 dose cargo container),20000,3,9,Drugs,EotE-CRB:185
+Gear,Nonrestricted,AlderaanMotors Heat Sink Power Generator,550,0,2,Field Equipment,LBE:46
+Gear,Nonrestricted,TacNet Tatical Data Network,1000,0,3,Field Equipment,LBE:49
+Gear,Nonrestricted,Devlin Constructs Fac L-120 Modular Motor Pool,1200,0,2,Field Equipment,LBE:48
+Gear,Nonrestricted,Delvin Constructs Com C-52 Modular Command Center,1750,0,2,Field Equipment,LBE:48
+Gear,Nonrestricted,Devlin Constructs MilBar F-122 Modular Barracks,2000,0,3,Field Equipment,LBE:48
+Gear,Nonrestricted,Devlin Constructs HNG F-104 Modular Hanger,2200,0,2,Field Equipment,LBE:48
+Gear,Restricted,CryonCorp MK. I Cat's Eye Multipurpose Sensor Suite,2750,0,5,Field Equipment,LBE:46
+Gear,Nonrestricted,1.4 FD P-Tower Light Anti-Vehicle Battery,4000,0,2,Field Equipment,LBE:46
+Gear,Nonrestricted,Devlin Constructs BKR B-70 Modular Reinforced Bunker,4900,0,3,Field Equipment,LBE:48
+Gear,Restricted,Golan Arms DF.11 Anti-Infantry Battery,7500,0,5,Field Equipment,LBE:48
+Gear,Restricted,DefenStar Ltd. Nyalsan II Planetary Shield Generator,460000,0,6,Field Equipment,LBE:47
+Gear,Nonrestricted,Synthflesh,10,0,1,Medical,AoR-CRB:193 // EotE-CRB:177 // FaD-CRB:186
+Gear,Nonrestricted,Synthskin,10,0,1,Medical,AoR-CRB:193 // EotE-CRB:177 // FaD-CRB:186
+Gear,Nonrestricted,Bacta (liter),20,1,1,Medical,AoR-CRB:192 // EotE-CRB:176 // FaD-CRB:185
+Gear,Nonrestricted,Med-Aid Patch,20,1,4,Medical,KtP:51
+Gear,Nonrestricted,Stimpack,25,0,1,Medical,AoR-BGR:35 // AoR-CRB:193 // EotE-BGR:35 // EotE-CRB:177 // FaD-BGR:35 // FaD-CRB:186
+Gear,Nonrestricted,Emergency Medpac,100,1,1,Medical,AoR-BGR:35 // AoR-CRB:192 // EotE-BGR:35 // EotE-CRB:176 // FaD-BGR:35 // FaD-CRB:185
+Gear,Nonrestricted,Antidote Set,250,1,5,Medical,DA:50
+Gear,Nonrestricted,Athakam Medtech Military Medpac (Untrained/Emergency),400,2,3,Medical,DC:57
+Gear,Nonrestricted,Blood Scanner,400,1,5,Medical,KtP:51
+Gear,Nonrestricted,Medpac,400,2,2,Medical,AoR-BGR:35 // AoR-CRB:192 // EotE-BGR:35 // EotE-CRB:177 // FaD-BGR:35* // FaD-CRB:186*
+Gear,Nonrestricted,CAPC ECM-598 Medical Backpack,450,2,4,Medical,EtU:48
+Gear,Nonrestricted,VX-38 Portable Large Animal Veterinary Kit,600,3,3,Medical,SoT:45
+Gear,Nonrestricted,XV-09 Chemical Restraint Harness,1200,2,5,Medical,SoT:44
+Gear,Nonrestricted,Chiewab Iraps Cerebral Stabilizer,2200,3,7,Medical,DC:57
+Gear,Nonrestricted,Bacta (tank),4000,12,1,Medical,AoR-CRB:192 // EotE-CRB:176 // FaD-CRB:185
+Gear,Restricted,Dioxis Gas,100,0,6,Poison,LoNH:109
+Gear,Restricted,Dendriton Toxin,125,0,7,Poison,LoNH:109
+Gear,Restricted,Raquor Venom,150,0,7,Poison,LoNH:109
+Gear,Restricted,Poisoner's Ring,500,0,7,Poison,DA:52
+Gear,Restricted,Loaded Chance Cubes,100,1,5,Recreational,LoNH:108
+Gear,Restricted,Marked Sabacc Deck,500,1,6,Recreational,LoNH:108
+Gear,Nonrestricted,Binders,25,0,0,Security,AoR-BGR:36 // AoR-CRB:193 // EotE-BGR:36 // EotE-CRB:178 // FaD-BGR:36 // FaD-CRB:187
+Gear,Nonrestricted,Restraining Bolt,35,0,0,Security,AoR-BGR:36 // AoR-CRB:195 // EotE-BGR:36 // EotE-CRB:178 // FaD-BGR:36 // FaD-CRB:187
+Gear,Restricted,Lockpicking Tools,50,1,8,Security,FC:49
+Gear,Nonrestricted,Authentication Tools,100,1,5,Security,DA:50
+Gear,Nonrestricted,Disguise Kit,100,2,4,Security,AoR-BGR:35 // AoR-CRB:194 // EotE-BGR:35 // EotE-CRB:178 // FaD-BGR:36 // FaD-CRB:187
+Gear,Nonrestricted,MCI-100 Magnacuffs,100,1,4,Security,FH:46
+Gear,Nonrestricted,Personal Transponder,100,0,4,Security,KtP:51
+Gear,Nonrestricted,Stun Cuffs,100,0,5,Security,KtP:52
+Gear,Restricted,Data Dead Drop,150,0,7,Security,DA:50
+Gear,Nonrestricted,Concealed Recorder,175,0,5,Security,DA:50
+Gear,Nonrestricted,AL-DR8 Grav-Binders,300,1,7,Security,KtP:51
+Gear,Restricted,Thalassian Security Collar,300,1,5,Security,LoNH:108
+Gear,Nonrestricted,Comm Jammer,400,4,3,Security,AoR-CRB:194 // EotE-CRB:178
+Gear,Nonrestricted,Communications Media Manipulator,400,6,6,Security,DA:50
+Gear,Nonrestricted,Security Sweeper,400,1,6,Security,DA:53
+Gear,Nonrestricted,"Biotech ""Bag and Tag"" Forensics Investigation Kit",450,4,4,Security,FH:46
+Gear,Restricted,Explosive Shackles,500,2,6,Security,LoNH:109
+Gear,Nonrestricted,Slicer Gear,500,2,4,Security,AoR-CRB:195 // EotE-CRB:179
+Gear,Nonrestricted,Sound Dampener,600,2,7,Security,DA:53
+Gear,Restricted,Forgery Tools,650,2,8,Security,DA:51
+Gear,Restricted,Falsified Credentials,800,0,7,Security,DA:51
+Gear,Restricted,Blackops Data Breaker,1000,1,6,Security,EotE-CRB:193
+Gear,Nonrestricted,Comm Scrambler,1000,0,5,Security,AoR-CRB:194 // EotE-CRB:178
+Gear,Restricted,Electronic Lock Breaker,1000,1,5,Security,AoR-BGR:36 // AoR-CRB:194 // EotE-BGR:36 // EotE-CRB:178 // FaD-BGR:36 // FaD-CRB:187
+Gear,Restricted,Fingerprint Masque,1000,0,7,Security,FC:50
+Gear,Nonrestricted,Magna-Lock Safe,1000,12,5,Security,FC:49
+Gear,Restricted,Advanced Flesh Camouflage Kit,2500,2,7,Security,AoR-CRB:193
+Gear,Restricted,Shadowcloak,2500,2,6,Security,FC:49
+Gear,Nonrestricted,Shift Coffer,2500,5,7,Security,FC:49
+Gear,Restricted,Personal Stealth Field,20000,1,9,Security,AoR-CRB:195
+Gear,Nonrestricted,Rim Excursions Inc. Military Belt Pouch,10,0,0,Storage,DC:59
+Gear,Nonrestricted,Modular Backpack Extra Pouch,15,0,1,Storage,EtU:51
+Gear,Nonrestricted,Backpack,50,0,0,Storage,AoR-BGR:36 // AoR-CRB:198 // EotE-BGR:36 // EotE-CRB:180 // FaD-BGR:36 // FaD-CRB:188
+Gear,Nonrestricted,Spacer's Duffel,50,0,0,Storage,EtU:53
+Gear,Nonrestricted,Surveyor's Bag,50,0,1,Storage,EtU:53
+Gear,Nonrestricted,Wizard Pouch,50,0,4,Storage,NoP:106
+Gear,Nonrestricted,Imperial Army Military Pack,60,0,0,Storage,DC:59
+Gear,Nonrestricted,Creshaldyne Mk. IV Modular Backpack,75,0,1,Storage,EtU:51
+Gear,Nonrestricted,Load-Bearing Gear,100,0,3,Storage,AoR-CRB:198
+Gear,Restricted,Sleight Box,400,2,6,Storage,DA:53
+Gear,Nonrestricted,Corchemco Fire Paste,3,0,1,Survival,DC:58
+Gear,Nonrestricted,Degan Explorations Syntherope,5,1,1,Survival,EtU:49
+Gear,Nonrestricted,Field Ration Pack,5,0,0,Survival,EotE-CRB:196 // FaD-CRB:188
+Gear,Nonrestricted,Gandorthral Atmospherics Scout 5 Field Goggles,5,0,0,Survival,DC:58
+Gear,Nonrestricted,Ration Packs,5,0,0,Survival,AoR-BGR:36 // EotE-BGR:36 // EotE-CRB:179 // FaD-BGR:36
+Gear,Nonrestricted,Imperial Army Canteen,7,1,1,Survival,DC:58
+Gear,Nonrestricted,Imperial Army Field Rations,10,0,2,Survival,DC:58
+Gear,Nonrestricted,Taggeco Food Preperation System,20,3,1,Survival,DC:58
+Gear,Nonrestricted,Breath Masks and Respirators,25,1,1,Survival,AoR-BGR:36 // AoR-CRB:195 // EotE-BGR:36 // EotE-CRB:179 // FaD-BGR:36 // FaD-CRB:188
+Gear,Nonrestricted,Rim Excursions Inc. TaunTaun Pup Tent,30,3,2,Survival,DC:58
+Gear,Nonrestricted,Fabritech CN-21 Camouflage Paint,40,0,2,Survival,DC:58
+Gear,Nonrestricted,Electro-Snare,50,1,5,Survival,EtU:49
+Gear,Nonrestricted,Luma Flare,50,1,4,Survival,KtP:52
+Gear,Nonrestricted,Saladar Systems PED-21 Distress Beacon,50,0,1,Survival,EtU:50
+Gear,Nonrestricted,A99 Aquata Breather,100,0,7,Survival,KtP:52
+Gear,Nonrestricted,Fabritech CN-15 Camouflage Netting,100,4,2,Survival,DC:57
+Gear,Nonrestricted,Space Suit,100,4,1,Survival,AoR-BGR:36 // AoR-CRB:196 // EotE-BGR:36 // EotE-CRB:179 // FaD-BGR:36 // FaD-CRB:188
+Gear,Nonrestricted,Tent,100,4,1,Survival,AoR-CRB:196 // EotE-CRB:180 // FaD-CRB:188
+Gear,Nonrestricted,InstaMist Generator,150,5,4,Survival,KtP:52
+Gear,Nonrestricted,Gandorthral Portable Survival Shelter,200,2,4,Survival,EtU:49
+Gear,Nonrestricted,Thermal Cloak,200,2,1,Survival,AoR-CRB:196 // EotE-CRB:180 // FaD-CRB:188
+Gear,Nonrestricted,Crash Survival Kit,300,5,2,Survival,AoR-CRB:195 // EotE-CRB:180
+Gear,Nonrestricted,Survival Equipment Inc. Viscera Field Dressing Kit,300,3,5,Survival,EtU:51
+Gear,Nonrestricted,Wilderness Survival Kit,350,5,2,Survival,FaD-CRB:188
+Gear,Nonrestricted,Survival Equipment Inc. Field Kitchen,500,5,4,Survival,EtU:50
+Gear,Nonrestricted,Fabritech CX-2000 Holographic Ghillie Suit,800,1,8,Survival,DC:58
+Gear,Nonrestricted,Portable Electric Perimeter Fence,800,6,5,Survival,EtU:49
+Gear,Restricted,Jedi Utility Belt,1000,0,8,Survival,KtP:52
+Gear,Nonrestricted,GX-8 Water Vaporator,2000,12,2,Survival,FH:47
+Gear,Nonrestricted,A99 Custom Biome Generator,9000,45,4,Survival,FH:47
+Gear,Nonrestricted,Fasclean Atmospheric Reactive Damper,200000,300,5,Survival,FH:47
+Gear,Nonrestricted,Elysium Model 2 Atmospheric Processor,4500000,10000,7,Survival,FH:46
+Gear,Nonrestricted,Built-in toolkit,0,0,0,Tools,SM:53
+Gear,Nonrestricted,Glow Rod,10,1,0,Tools,AoR-BGR:36 // AoR-CRB:197 // EotE-BGR:36 // EotE-CRB:181 // FaD-BGR:36 // FaD-CRB:189
+Gear,Nonrestricted,Specimen Containers (tiny),10,0,1,Tools,EtU:53
+Gear,Restricted,WJ-880 Blinding Helmet,10,3,8,Tools,KtP:53
+Gear,Nonrestricted,Imperial Army Entrenching Tool,20,1,1,Tools,DC:59
+Gear,Nonrestricted,Emergency Repair Patch,25,0,1,Tools,AoR-BGR:36 // AoR-CRB:197 // EotE-CRB:182 // FaD-BGR:36
+Gear,Nonrestricted,Extra Reload,25,1,1,Tools,AoR-BGR:36 // AoR-CRB:197 // EotE-BGR:36* // EotE-CRB:181* // FaD-BGR:36 // FaD-CRB:189
+Gear,Nonrestricted,Insider's Guide,25,0,2,Tools,DA:52
+Gear,Nonrestricted,Military Field Manual,25,1,2,Tools,AoR-CRB:197
+Gear,Nonrestricted,Specimen Containers (small),25,1,2,Tools,EtU:53
+Gear,Nonrestricted,Utility Belt,25,0,0,Tools,AoR-CRB:198 // EotE-CRB:183 // FaD-CRB:189
+Gear,Nonrestricted,Cultural Etiquette Manual,35,0,3,Tools,DA:50
+Gear,Nonrestricted,Blastech Model 58 Concealment Holster,40,0,3,Tools,DC:59
+Gear,Nonrestricted,Climbing Gear,50,1,2,Tools,AoR-CRB:196 // EotE-CRB:180 // FaD-CRB:188
+Gear,Nonrestricted,Specimen Containers (medium),50,3,2,Tools,EtU:53
+Gear,Nonrestricted,Datapad,75,1,1,Tools,AoR-BGR:36 // AoR-CRB:196 // EotE-BGR:36 // EotE-CRB:181 // FaD-BGR:36 // FaD-CRB:189
+Gear,Nonrestricted,Beast Call,100,1,3,Tools,EtU:51
+Gear,Nonrestricted,Chiles-Zraii Foreman-Series Owner's Workshop Manual,100,1,0,Tools,SoT:46
+Gear,Restricted,Dataspike,100,1,3,Tools,SM:50
+Gear,Nonrestricted,Musical Instrument (Common),100,5,2,Tools,FH:48
+Gear,Nonrestricted,Corchemco Beastmaster Chem Lure,125,1,4,Tools,EtU:52
+Gear,Nonrestricted,Thermal Cutter,125,2,3,Tools,NoP:105
+Gear,Nonrestricted,"Corchemco ""Quickflash"" Burning Gel",150,1,5,Tools,EtU:52
+Gear,Nonrestricted,Fusion Lantern,150,2,2,Tools,AoR-CRB:197 // EotE-CRB:181 // FaD-CRB:189
+Gear,Nonrestricted,Species Database,150,2,2,Tools,DA:53
+Gear,Nonrestricted,Specimen Containers (large),150,5,3,Tools,EtU:53
+Gear,Nonrestricted,Fusion Cutter,175,2,2,Tools,AoR-CRB:197
+Gear,Nonrestricted,Integrated Public Address System,200,4,4,Tools,DA:52
+Gear,Nonrestricted,Mon Calamari Organic Gil,200,1,5,Tools,SoR:115
+Gear,Nonrestricted,Mechanical Dianoga,225,4,4,Tools,SM:52
+Gear,Nonrestricted,"MDD-12 ""Mercantiler"" Datapad",250,1,3,Tools,FH:48
+Gear,Nonrestricted,Repulsor Clamp,250,3,1,Tools,SM:52
+Gear,Restricted,Signature Modulation Pad,250,2,7,Tools,SM:51
+Gear,Nonrestricted,Sporting Macrobinoculars,250,1,2,Tools,NoP:105
+Gear,Nonrestricted,Verpine Bond Guantlets,250,1,6,Tools,SoR:115
+Gear,Nonrestricted,"Merr-Sonn ""Rider"" Ascension Pistol",275,1,4,Tools,DA:52
+Gear,Nonrestricted,Tool Kit,350,4,2,Tools,AoR-BGR:36 // AoR-CRB:198 // EotE-BGR:36 // EotE-CRB:181 // FaD-BGR:36 // FaD-CRB:189
+Gear,Nonrestricted,Corellian Technogolies Savior Anti-Grav Chute,450,1,5,Tools,SoF:103
+Gear,Nonrestricted,Gravity Belt,500,0,6,Tools,SoF:101
+Gear,Nonrestricted,Loronar Corporation Excavator Precision Tool Kit,500,5,7,Tools,EtU:52
+Gear,Restricted,Skifter,500,0,6,Tools,FC:50
+Gear,Nonrestricted,Verpine Headband,500,1,6,Tools,SoR:15
+Gear,Nonrestricted,Journeyman Tools Inc. Custom Tool Kit,700,5,5,Tools,SoT:45
+Gear,Restricted,Lightsaber Maintenance Kit,700,2,9,Tools,KtP:53
+Gear,Nonrestricted,Knack Restraining Bolt,750,0,8,Tools,DA:52
+Gear,Nonrestricted,Signet Ring,750,0,7,Tools,DA:53
+Gear,Nonrestricted,Tranlang Holo V Audio/Visual Translator,750,1,3,Tools,EtU:54
+Gear,Restricted,False Credentials,800,0,7,Tools,FC:50
+Gear,Nonrestricted,Microdata P-2 Pocket Attache,800,1,6,Tools,LoNH:111
+Gear,Nonrestricted,Fabritech AG/L Mk.III Targeting Goggles,1000,1,5,Tools,SoT:45
+Gear,Restricted,Outlaw Tech Data Breaker,1000,1,6,Tools,EotE-CRB:186
+Gear,Nonrestricted,Vergence Starchart,1000,0,10,Tools,NoP:106
+Gear,Nonrestricted,Corellia Mining Corporation EVA Powersuit,1500,12,7,Tools,SoF:103
+Gear,Nonrestricted,CZ-88 Heavy Loader Arm,1500,30,3,Tools,SM:51
+Gear,Nonrestricted,Musical Instrument (High Quality),1500,5,4,Tools,FH:48
+Gear,Nonrestricted,OR-Series Tech Recycling Station,1500,10,5,Tools,SM:52
+Gear,Nonrestricted,Aratech R82 Jump Boots,2000,2,6,Tools,SoR:115
+Gear,Nonrestricted,Expensive Jewelry,2000,0,7,Tools,DA:51
+Gear,Restricted,Credit Cleaner,2500,12,7,Tools,LoNH:111
+Gear,Nonrestricted,Merr-Sonn VX-A Intelligent Toolbox,2500,3,8,Tools,SM:52
+Gear,Restricted,Outlaw Tech Flesh Camouflage Set,2500,2,7,Tools,EotE-CRB:186
+Gear,Nonrestricted,Thunderhead Portable Entertainment System,2500,10,4,Tools,FH:47
+Gear,Nonrestricted,Ealewon A-212 Tracing Console,3000,12,6,Tools,SM:51
+Gear,Nonrestricted,Jet Pack,4500,2,7,Tools,EotE-CRB:181
+Gear,Restricted,Ardos Disk,10000,1,5,Tools,LoNH:111
+Gear,Restricted,Diplomatic Authorization,10000,0,8,Tools,DA:51
+Gear,Nonrestricted,Musical Instrument (Legendary),20000,5,10,Tools,FH:48
+Gear,Restricted,Outlaw Tech Personal Stealth Field,20000,1,9,Tools,EotE-CRB:186
+Gear,Nonrestricted,Ribon Rack,15,0,4,Uniforms,LBE:44
+Gear,Nonrestricted,Dress Uniform,100,1,5,Uniforms,LBE:44
+Gear,Nonrestricted,Symbol of Command,100,1,3,Uniforms,LBE:44
+Gear,Nonrestricted,Adamite Signet Ring,500,0,8,Uniforms,NoP:105
+Gear,Nonrestricted,BPEA-IA Cascader,1800,0,8,Uniforms,LBE:44

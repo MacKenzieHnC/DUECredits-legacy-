@@ -1,0 +1,60 @@
+(AoR) Age of Rebellion: Beginner's Guide
+AoR-BGR
+(AoR) Age of Rebellion: Core Rulebook
+AoR-CRB
+(AoR) Dead in the Water
+DitW
+(AoR) Desperate Allies
+DA
+(AoR) Lead By Example
+LBE
+(AoR) Onslaught at Arda I
+OaA
+(AoR) Operation Shadowpoint
+OS
+(AoR) Rescue at Glare Peak
+RaGP
+(AoR) Stay on Target
+SoT
+(AoR) Strongholds of Resistance
+SoR
+(EotE) Beyond the Rim
+BtR
+(EotE) Dangerous Covenants
+DC
+(EotE) Edge of the Empire: Beginner's Guide
+EotE-BGR
+(EotE) Edge of the Empire: Core Rulebook
+EotE-CRB
+(EotE) Enter the Unknown
+EtU
+(EotE) Far Horizons
+FH
+(EotE) Fly Casual
+FC
+(EotE) Jewel of Yavin
+JoY
+(EotE) Lords of Nal Hutta
+LoNH
+(EotE) Mask of the Pirate Queen
+MotPQ
+(EotE) Special Modifications
+SM
+(EotE) Suns of Fortune
+SoF
+(FaD) Chronicles of the Gatekeeper
+CotG
+(FaD) Force and Destiny: Beginner's Guide
+FaD-BGR
+(FaD) Force and Destiny: Core RuleBook
+FaD-CRB
+(FaD) Hidden Depths
+HD
+(FaD) Keeping the Peace
+KtP
+(FaD) Nexus of Power
+NoP
+(FaD) Savage Spirits
+SS
+Custom
+Custom

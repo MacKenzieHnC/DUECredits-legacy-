@@ -1,0 +1,64 @@
+Class,Legality,Name,Defense,Soak,Price,Encumbrance,Hardpoints,Rarity,Type,Index
+Armor,Nonrestricted,Blast Vest,0,1,200,3,1,3,Armor,EotE-CRB:405 // FC:47
+Armor,Nonrestricted,Beast-Hide Warrior's Armor,0,1,300,3,0,2,Armor,DC:49
+Armor,Nonrestricted,Catch Vest,0,2,300,1,0,9,Armor,SoF:99
+Armor,Nonrestricted,Pacnorval Defense Systems MK. III Flak Vest,0,1,300,3,1,2,Armor,DC:50
+Armor,Nonrestricted,Polis Massan Bodysuit,0,1,300,1,1,6,Armor,SoR:109
+Armor,Nonrestricted,Adverse Environment Gear,0,1,500,2,1,1,Armor,AoR-CRB:184 // EotE-CRB:169 // FaD-CRB:178
+Armor,Nonrestricted,Padded Armor,0,2,500,2,0,1,Armor,AoR-BGR:34 // AoR-CRB:185 // EotE-BGR:34 // EotE-CRB:169 // FaD-BGR:34 // FaD-CRB:180
+Armor,Restricted,Cloaking Coat,0,1,550,4,1,8,Armor,SM:47
+Armor,Nonrestricted,Reinforced Environment Gear,0,1,850,2,2,4,Armor,FH:44
+Armor,Nonrestricted,Riot Armor,0,2,950,3,2,4,Armor,EotE-CRB:401 // KtP:49
+Armor,Nonrestricted,"Cresh ""Luck"" Armor",0,2,1000,4,1,5,Armor,KtP:47
+Armor,Nonrestricted,"Type III ""Berethron"" Personal Modular Armor",1,1,1250,3,3,6,Armor,SoF:99
+Armor,Nonrestricted,A/KT Wing Commander Armored Flight Suit,1,1,1500,3,1,6,Armor,SoT:42
+Armor,Nonrestricted,A/KT Mountaineer Armor,1,1,1800,3,2,6,Armor,EtU:45
+Armor,Restricted,Creshaldyne Mk.IV Riot Armor,1,1,1850,3,1,6,Armor,FH:44
+Armor,Nonrestricted,"Corellian Arms ""Storm"" Charge Suit",0,2,2000,3,0,6,Armor,DC:50
+Armor,Nonrestricted,Second Skin Armor,1,1,2000,2,0,7,Armor,DA:49
+Armor,Nonrestricted,Capari-Series Padded Beast Armor,0,2,2500,4,0,5,Armor,SoT:43
+Armor,Nonrestricted,Laminate Armor,0,2,2500,4,3,5,Armor,AoR-CRB:185 // EotE-CRB:169*
+Armor,Nonrestricted,Sakiyan Shadowsuit,0,1,2500,1,1,8,Armor,LoNH:105
+Armor,Nonrestricted,A/KT Shockrider Crash Suit,0,2,3000,2,1,3,Armor,EtU:45
+Armor,Nonrestricted,A/KT Shockrider Crash Suit,0,2,3000,2,1,3,Armor,SoT:42
+Armor,Nonrestricted,Merr-Sonn N-57 Armor,0,2,3000,5,5,6,Armor,SM:48
+Armor,Restricted,Powered Capacitive Armor,1,1,3000,4,2,8,Armor,DA:49
+Armor,Nonrestricted,Verpine Fiber Ultramesh Armor,0,1,3000,3,2,5,Armor,SoR:109
+Armor,Restricted,Heavy Battle Armor,1,2,5000,6,4,7,Armor,AoR-BGR:34 // AoR-CRB:184 // EotE-BGR:34 // EotE-CRB:170 // KtP:47
+Armor,Nonrestricted,H-Series Megafauna Carriage,1,0,5500,5,2,7,Armor,SoT:43
+Armor,Restricted,Taggeco Protector 1 Combat Armor,1,2,5500,4,3,7,Armor,DC:51
+Armor,Nonrestricted,Kamperdine Custom Tailored Armored Jackets,0,2,6200,1,0,7,Armor,FH:44
+Armor,Nonrestricted,"Loronar Corporation Mk.II ""Steelskin"" Anti-Concussive Armor",0,3,6500,8,1,7,Armor,DC:51
+Armor,Restricted,Jedi Battle Armor,1,2,7500,6,4,9,Armor,KtP:47
+Armor,Nonrestricted,Destri-Series Laminate Beast Armor,0,4,8500,7,1,7,Armor,SoT:43
+Armor,Nonrestricted,"Arakyd Industries PX-1 ""Battlement"" Powered Armor",1,3,9000,3,3,9,Armor,DC:51
+Armor,Nonrestricted,Personal Deflector Shield,2,0,10000,3,0,8,Armor,AoR-CRB:185 // EotE-CRB:170
+Armor,Restricted,Jedi Temple Guard Armor,2,1,12000,4,3,10,Armor,KtP:48
+Armor,Restricted,Kav-Dann Power Armor,2,2,13500,4,6,7,Armor,KtP:48
+Armor,Nonrestricted,Leviathan Power Armor,2,2,15000,8,1,8,Armor,SoR:109
+Armor,Restricted,Hutt Shell Armor,2,2,25000,6,4,9,Armor,LoNH:104
+Armor,Nonrestricted,Banal Apparel,0,0,25,0,0,0,Clothing,DA:47
+Armor,Nonrestricted,Cargo Clothing,0,0,30,1,0,0,Clothing,DA:47
+Armor,Nonrestricted,Heavy Clothing,0,1,50,1,0,0,Clothing,AoR-BGR:34 // AoR-CRB:185 // EotE-BGR:34 // EotE-CRB:169 // FaD-BGR:34 // FaD-CRB:180
+Armor,Nonrestricted,Performer's Attire,0,0,50,0,0,4,Clothing,DA:49
+Armor,Nonrestricted,A/KT Tracker Utility Vest,0,0,100,0,1,2,Clothing,EtU:45
+Armor,Nonrestricted,Nomad Greatcoat,0,1,100,1,0,4,Clothing,SoF:99
+Armor,Nonrestricted,Concealing Robes,0,1,150,1,0,2,Clothing,FaD-BGR:34 // FaD-CRB:179
+Armor,Nonrestricted,Caballerin-Series Riding Tack,0,0,250,2,0,4,Clothing,SoT:42
+Armor,Nonrestricted,Diplomat's Robes,0,0,400,2,0,6,Clothing,DA:47
+Armor,Restricted,Jedi Training Suit,0,2,400,6,0,9,Clothing,KtP:48
+Armor,Nonrestricted,Koromondain Half-Vest,1,1,500,3,0,5,Clothing,KtP:49
+Armor,Nonrestricted,Resplendent Robes,0,1,500,2,0,5,Clothing,DA:49
+Armor,Nonrestricted,Lector's Outfit,0,1,525,2,1,6,Clothing,DA:48
+Armor,Nonrestricted,Enviro-Suit,0,2,750,2,1,2,Clothing,EtU:44
+Armor,Nonrestricted,Holographic Costume,1,0,750,2,0,8,Clothing,DA:48
+Armor,Nonrestricted,Noble Regalia,0,0,750,1,3,7,Clothing,DA:49
+Armor,Nonrestricted,Armored Clothing,1,1,1000,3,1,6,Clothing,AoR-BGR:34 // AoR-CRB:184 // EotE-BGR:34 // EotE-CRB:169 // FaD-BGR:34 // FaD-CRB:178
+Armor,Nonrestricted,Hauling Harness,1,1,1000,3,2,6,Clothing,DA:48
+Armor,Nonrestricted,SoroSuub P-14 Hazardous Industry Suit,0,2,1000,7,2,4,Clothing,SM:48
+Armor,Nonrestricted,Mechanic's Utility Suit,0,2,1175,5,1,3,Clothing,SM:48
+Armor,Nonrestricted,Flare Jacket,0,1,1500,3,0,8,Clothing,DA:48
+Armor,Nonrestricted,Smuggler's Trenchcoat,1,1,1650,3,0,7,Clothing,FC:47
+Armor,Restricted,TX-3 Combat Flight Suit,1,0,3000,4,2,6,Clothing,SoF:99
+Armor,Restricted,Armored Robes,1,2,4500,5,2,8,Clothing,FaD-BGR:34 // FaD-CRB:179
+Armor,Restricted,Mimetic Suit,1,1,8000,2,2,8,Clothing,FC:47

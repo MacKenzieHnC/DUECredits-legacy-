@@ -1,0 +1,94 @@
+Class,Type,Name,Silhouette,Speed,Handling,Model,Manufacturer,Crew,Encumbrance,Passenger,Legality,Price,Rarity,Hardpoints,Weapons Count,Index
+Transportation,Aerial Retreat,HA-5 Aerial Retreat,5,1,-5,HA-5,Hyrotii Engineering,16,250,16,Nonrestricted,750000,6,3,0,DA:60
+Transportation,Airspeeder,Nen-Carvon R-444 Imperial Sky Swooper,1,2,3,Paraglider,Nen-Carvon,1,2,0,Restricted,1000,5,1,1,SoR:116
+Transportation,Airspeeder,Incom T-16 Skyhopper,2,4,3,T-16 Skyhopper,Incom Corporation,1,12,1,Nonrestricted,7500,2,3,0,OS:27* // EotE-CRB:248
+Transportation,Airspeeder,Airspeeder,2,3,0,Civilian,Various manufacturers,1,10,1,Nonrestricted,10000,3,1,0,EotE-CRB:248 // FaD-CRB:254*
+Transportation,Airspeeder,Arrow-7 Airspeeder (Customized),2,2,0,Civilian,Aratech Repulsor Company,1,20,6,Nonrestricted,12000,2,2,1,JoY:87
+Transportation,Airspeeder,Hyperfoil 1000-XTC,2,3,0,XTC,Tion Industries,1,15,2,Nonrestricted,12500,4,1,0,DA:60
+Transportation,Airspeeder,SU-40 High-Performance Airspeeder,2,5,2,SU-40,SoroSuub,1,6,1,Nonrestricted,15000,5,2,0,SoT:51
+Transportation,Airspeeder,Alliance T-47 Airspeeder,2,4,0,T-47,Incom Corporation,2,6,0,Nonrestricted,18000,3,2,2,Aor-CRB:263
+Transportation,Airspeeder,Alliance T-47 Sandspeeder,2,4,2,T-47,Incom Corporation,2,6,0,Nonrestricted,18000,5,2,2,OaA:26
+Transportation,Airspeeder,Incom T-47 Airspeeder,2,4,0,T-47,Incom Corporation,2,6,0,Nonrestricted,18000,3,3,1,EotE-CRB:249
+Transportation,Airspeeder,Guardian 5E Personal Defense Speeder,3,3,0,Guardian 5e,Ubrikkian,1,10,5,Nonrestricted,20000,4,1,1,DC:62
+Transportation,Airspeeder,SoroSuub Rapid Service Speeder J-15,3,2,-3,J-15,SoroSuub Corporation,1,230,3,Nonrestricted,25000,5,5,0,SM:61
+Transportation,Airspeeder,Tetan Guard Airspeeder,2,3,0,SEC-22m,Kodoos Repulsor Ltd,2,15,2,Restricted,25000,5,1,2,NoP:124
+Transportation,Airspeeder,"CAV-11 ""Condor"" Airspeeder",2,3,1,CAV-11,Corellian Engineering Corporation,1,12,2,Nonrestricted,30000,4,2,2,SoF:104
+Transportation,Airspeeder,MSP100 Pteropter Hover Pod,2,3,-1,MSP100 Pteropter Hover Pod,Gallofree Aerial Products,3,8,3,Nonrestricted,30000,5,2,2,OaA:54
+Transportation,Airspeeder,SU-42RS Flashblind Aerial Reconnaissance Airspeeder,2,6,0,SU-42RS,SoroSuub,2,5,0,Nonrestricted,32000,7,0,1,LbE:59
+Transportation,Airspeeder,HSP-10 Pursuit Airspeeder,2,4,-1,HSP-10,Dromor Motors,1,12,2,Nonrestricted,40000,6,1,2,FC:52
+Transportation,Airspeeder,"G35 ""Silver Cloud"" Airspeeder",3,4,-1,G35,Corellian Engineering Corporation,3,25,10,Nonrestricted,45000,4,2,0,SoF:104
+Transportation,Airspeeder,Invader AA-9 Assault Airspeeder,3,3,0,Invader AA-9,Mekuun,2,5,10,Restricted,45000,6,2,2,DC:63
+Transportation,Airspeeder,Rush Troop Transport Speeder,3,3,-1,Rush,Mekuun,3,8,20,Nonrestricted,60000,5,2,2,DC:64
+Transportation,Airspeeder,Ubrikkian TRL-03 Skyclaw,5,1,-2,TRL-03,Ubrikkian Industries,2,1000,2,Nonrestricted,60000,6,5,2,SM:61
+Transportation,Airspeeder,Mauler Tactical Responder,4,2,0,Mauler TR,Sienar Fleet Systems,2,12,24,Restricted,76000,6,2,1,FH:51
+Transportation,Airspeeder,Overwatch MC-2 Mobile Command Speeder,3,2,-2,Overwatch MC-2,Mekuun,8,4,2,Nonrestricted,80000,6,2,2,DC:64
+Transportation,Airspeeder,PTB-625 Heavy Bomber,4,2,-2,BTP-625,Incom/SubPro,5,100,1,Nonrestricted,130000,6,2,3,SoT:51
+Transportation,Armored Personnel Carrier,"A-19 ""Iron Crawler"" Armored Transport",5,1,-3,A-19,Corellian Mining Corporation,4,40,8,Nonrestricted,12500,6,4,3,SoF:106
+Transportation,Cloud Car,Needle NE-4 Cloud Car Interceptor,2,5,1,Needle Ne-4,Bespin Motors,1,3,0,Nonrestricted,28000,4,2,1,DC:64
+Transportation,Cloud Car,Storm IV Cloud Car,2,4,1,Storm IV,Bespin Motors,2,8,0,Nonrestricted,30000,5,2,1,Aor-CRB:262 // EotE-CRB:248 // GMK:9
+Transportation,Cloud Car,Storm IV Cloud Car (Wing Guard variant),2,4,1,Storm IV,Bespin Motors,2,8,0,Nonrestricted,30000,5,2,1,JoY:44 // JoY:95
+Transportation,Cloud Car,Ubrikkian Industries Talon I Combat Cloud Car,2,4,2,Talon I,Ubrikkian Industries,1,10,0,Nonrestricted,36000,5,2,1,FaD-CRB:254
+Transportation,Droid Operated Vehicle,I-C2 Civil-Industrial Droid,4,1,-2,I-C2,Veril Line Systems,0,200,6,Nonrestricted,1700000,6,1,0,FH:53
+Transportation,Gravsled,V5 Medium Cargo Floater,2,1,-2,V5-series,TaggeCo,1,55,6,Nonrestricted,1225,2,0,0,BtR:33
+Transportation,Gravsled,Aratech 57-D Speeder Bike,2,3,1,57-D,Aratech Repulsor Company,1,10,1,Nonrestricted,2800,4,3,0,EtU:58
+Transportation,Gravsled,Aratech 74-Z Military Speeder Bike,2,3,1,74-Z,Aratech Repulsor Company,1,5,1,Nonrestricted,3000,4,2,1,Aor-CRB:263* // EotE-BGR:42 // EotE-CRB:250 // BtR:70*
+Transportation,Gravsled,85-XS Odyssey Heavy Speeder Bike,2,2,0,85-XS,Aratech Repulsor Company,1,15,1,Nonrestricted,4500,5,4,0,FaD-CRB:255
+Transportation,Gravsled,"CEC D-22 ""Screamer"" Speeder Bike",2,4,0,D-22,Corellian Engineering Corporation,1,3,1,Nonrestricted,4500,3,2,0,SoF:104 // SoF:131
+Transportation,Gravsled,Hutt Repulsorsled,2,1,0,HF-2,SakTek Inc.,1,20,2,Nonrestricted,8000,3,3,1,LoNH:113
+Transportation,Groundcar,Groundcar,2,2,-1,Various,Various manufacturers,1,20,3,Nonrestricted,1500,2,2,0,FaD-CRB:256
+Transportation,Groundcar,Personnel Carrier,3,2,-2,Personnel Carrier,Various manufacturers,2,100,15,Nonrestricted,3000,2,3,0,EotE-CRB:252
+Transportation,Heavy Assault Walker,Retrofitted AT-AT,4,1,-1,AT-AT,Kuat Drive Yards,5,100,40,Restricted,100000,5,3,1,OS:45
+Transportation,Heavy Assault Walker,All Terrain Armored Transport,4,1,-3,AT-AT,Kuat Drive Yards,5,100,40,Restricted,150000,5,3,2,Aor-CRB:264
+Transportation,Heavy Cargo Loader,Rufescent Cargo Hauler,2,1,-2,Rufescent-class,TaggeCo,1,50,0,Nonrestricted,4000,3,6,0,KtP:59
+Transportation,Heavy Landspeeder,D-4S Projection Platform,4,2,-2,D-4S,Incom Corporation,3,20,10,Nonrestricted,10000,6,4,0,KtP:58
+Transportation,Heavy Landspeeder,D-4 Mobile Defense Platform,4,2,-2,D-4,Incom Corporation,3,20,10,Nonrestricted,20000,6,4,2,KtP:58
+Transportation,Landspeeder,Passenger Landspeeder,2,2,0,Various,Various corporations,1,10,4,Nonrestricted,3500,3,4,0,FaD-CRB:254
+Transportation,Landspeeder,X-34 Landspeeder,2,2,0,X-34,SoroSuub,1,15,1,Nonrestricted,4500,2,2,0,EotE-CRB:251
+Transportation,Landspeeder,"SoroSuub Seraph ""Flash Speeder""",2,3,0,Seraph-Class,Corellian Engineering Corporation,1,18,3,Nonrestricted,5200,4,2,1,SoF:105
+Transportation,Landspeeder,V-35 Courier,2,1,0,V-35,SoroSuub Corporation,1,20,2,Nonrestricted,5500,2,2,0,DA:59
+Transportation,Landspeeder,Ubrikkian Industries Pongeeta-class Swamp Speeder,2,2,1,Pongeeta-class,Ubrikkian Industries,1,15,2,Nonrestricted,6000,3,2,0,LoNH:113
+Transportation,Landspeeder,AV-21 Landspeeder,2,3,0,AV-21,Mobquet Swoops and Speeders,1,10,1,Nonrestricted,6500,7,3,0,SoT:50
+Transportation,Landspeeder,Hyperfoil 1000-XTC,2,2,0,1000-XTC,Tion Industries,1,25,2,Nonrestricted,7000,5,3,0,FC:52
+Transportation,Landspeeder,V-35 Courier Landspeeder,2,3,0,V-35 Courier,SoroSuub,1,20,3,Nonrestricted,7500,2,3,0,FH:52
+Transportation,Landspeeder,Sunrunner ZX Landspeeder,2,2,0,Sunrunner zX,Ikas-Adno,2,12,1,Nonrestricted,8500,5,3,1,FC:53
+Transportation,Landspeeder,Ord Radama Landspeeder,2,2,-1,Civilian,Various,1,30,6,Nonrestricted,10000,2,1,0,OaA:86
+Transportation,Landspeeder,Panther Police Interceptor,2,4,0,Panther,SoroSuub Corporation,1,20,3,Restricted,11000,4,3,0,FH:52
+Transportation,Landspeeder,AA-70 Observation and Command Speeder,3,1,-2,AA-70,Trast Heavy Transports,4,40,10,Nonrestricted,16000,4,2,1,LbE:50
+Transportation,Landspeeder,Baktoid UH-XH Heavy Work Platform,4,1,-3,UH-XH,Baktoid Armor Workshop,2,350,24,Nonrestricted,30000,5,3,0,SM:60
+Transportation,Landspeeder,8880 Luxury Landspeeder,3,2,-1,8880,Ubrikkian Industries,1,30,6,Nonrestricted,40000,7,2,0,DA:59
+Transportation,Landspeeder,LAVr QH-7 Chariot Command Speeder,3,4,1,LAVr QH-7 Chariot,Uulshos Manufacturing,7,20,3,Restricted,40000,5,2,1,LbE:51
+Transportation,Landspeeder,1-L Imperial-Series Repulsor Tank,3,2,1,1L Light Repulsor Tank,Ubrikkian Industries,2,12,4,Restricted,50000,5,1,1,SoT:50
+Transportation,Landspeeder,SoroSuub Portable Store KRI-80,4,1,-4,KRI-80,SoroSuub Corporation,1,400,5,Nonrestricted,60000,6,5,0,SM:60
+Transportation,Mobile Refinery,Corellian Mining Corporation Digger Crawler,4,1,-3,Digger Crawler,Corellian Mining Corporation,50,400,30,Nonrestricted,50000,7,5,0,EotE-CRB:251
+Transportation,Reconnaissance Walker,Superhaul Model II Cargo Skiff,2,2,-1,AuperHaul II,Ubrikkian Industries,1,80,8,Nonrestricted,8000,3,2,0,FH:52
+Transportation,Reconnaissance Walker,Ubrikkian Industries Bantha-II Cargo Skiff,2,3,0,Bantha-II,Ubrikkian Industries,1,250,16,Nonrestricted,8000,4,2,0,LoNH:112
+Transportation,Reconnaissance Walker,"Aratech ""Shiphand"" Cargo Skiff",3,2,-1,Shiphand,Aratech Repulsor Company,1,250,6,Nonrestricted,12000,3,1,0,Aor-CRB:447
+Transportation,Reconnaissance Walker,TaggeCo. Cargohopper 102 Cargo Lifter,2,3,-1,Cargohopper 102,TaggeCo.,1,75,0,Nonrestricted,14500,3,0,1,FC:52
+Transportation,Reconnaissance Walker,All Terrain Scout Transport,3,2,0,AT-ST,Kuat Drive Yards,2,18,0,Restricted,75000,5,1,3,Aor-CRB:265 // OaA:34 // OaA:93
+Transportation,Sail Barge,Ubrikkian Industries Luxury-Class Sail Barge,4,2,-2,Luxury-class,Ubrikkian Industries,26,1000,300,Nonrestricted,300000,6,2,1,LoNH:112
+Transportation,Skiff,Jawa Salvage Skiff,2,1,-1,Cargo Floater 3z,Ubrikkian,1,60,15,Nonrestricted,4000,2,1,0,BtR:87
+Transportation,Speeder Truck,A-A3 Dray Light Speeder Truck,3,1,0,A-A3,Trast Heavy Transports,1,135,2,Nonrestricted,7000,2,3,0,FaD-CRB:255
+Transportation,Speeder Truck,Trast A-A5 Heavy Speeder Truck,3,1,-2,A-A5,Trast Heavy Transports,3,220,25,Nonrestricted,10000,2,3,0,EotE-CRB:250
+Transportation,Submarine,Mon Calamari Keelkana-class Attack Submersible,2,4,1,Attack Submersible,Mon Calamari Subworks,1,4,0,Restricted,32000,6,3,2,SoR:117
+Transportation,Swoop,Starhawk Speeder Bike,2,3,0,Starhawk,Ikas-Adno,1,5,1,Nonrestricted,2000,3,2,1,FC:53
+Transportation,Swoop,Starhawk Speeder Bike with Sidecar,2,3,0,Starhawk,Ikas-Adno,1,15,2,Nonrestricted,2500,3,1,1,FC:53
+Transportation,Swoop,KV Swoop,2,3,1,KV,Kuat Vehicles,1,3,0,Nonrestricted,4800,5,0,0,EtU:58
+Transportation,Swoop,Mobquet Flare-V Swoop Bike,2,4,-2,Flare-V,Monquet Swoops and Speeders,1,3,1,Nonrestricted,5000,4,1,0,CotG:58
+Transportation,Swoop,"Mobquet S-5 ""Flashfury"" Swoop",2,5,1,S-5,Mobquet Swoops and Speeders,1,0,0,Nonrestricted,5500,3,3,0,SoF:105
+Transportation,Swoop,Nebulon-Q Racing Swoop,2,3,2,Nebulon-Q,Mobquet Swoops and Speeders,1,3,0,Nonrestricted,5500,5,3,0,SoT:51
+Transportation,Swoop,Zephyr-G Swoop,2,2,0,Zeohyr-G,Mobquet Swoops and Speeders,1,4,1,Nonrestricted,5700,4,2,0,OaA:90 // EtU:59
+Transportation,Swoop,Mobquet Flare-S Swoop,2,3,2,Flare-S,Mobquet Swoops and Speeders,1,4,1,Nonrestricted,6000,3,2,0,EotE-CRB:250
+Transportation,Swoop,The Superflare -- Modified Mobquet Flare-S Swoop,3,4,2,Flare-S,Mobquet Swoops and Speeders,1,4,0,Nonrestricted,9500,6,0,1,DC:65
+Transportation,Tunneling Vehicle,"A-11 Model III ""Burrower""",3,1,-3,TBV Model III,Corellian Mining Corporation,2,12,3,Nonrestricted,45000,7,2,1,SoF:106
+Transportation,Walker,AT-HCT,3,1,-1,AT-HCT,Rothana Heavy Engineering,1,200,6,Nonrestricted,3000,3,2,0,FaD-CRB:256
+Transportation,Walker,AT-EST Exploration and Survey Walker,4,1,-2,AT-EST,Rothana Heavy Industries,3,50,8,Nonrestricted,12000,5,4,1,EotE-CRB:253
+Transportation,Walker,Hunchback Construction Strider,2,1,0,All Terrain Construction Transport,Kuat Drive Yards,2,12,0,Nonrestricted,28000,4,3,1,FH:54
+Transportation,Walker,All Terrain Personal Transport,2,2,0,AT-PT,Rothana Heavy Industries,1,15,1,Nonrestricted,30000,7,2,2,EotE-CRB:252
+Transportation,Walker,"MEV2 ""Dug Digger""",3,2,-1,MEV2,Corellia Mining Corporation,2,100,0,Nonrestricted,30000,5,2,1,SoF:107
+Transportation,Walker,All Terrain Riot Control Transport,3,2,0,AT-RCT,Kuat Drive Yards,2,10,0,Restricted,35000,7,2,3,FH:53
+Transportation,Walker,Hydrospace Corp Explorer Submersible,3,2,0,Explorer Submersible,Hydrosphere Corporation,4,10,2,Restricted,55000,5,2,2,SoR:116
+Transportation,Walker,AT-FRC Force Reconnaissance Walker,2,2,1,AT-FRC,Kuat Drive Yards,2,5,0,Nonrestricted,75000,8,1,2,LbE:51
+Transportation,Walker,Slightly Rusted AT-St Walker,3,2,-1,AT-ST,Kuat Drive Yards,2,18,0,Restricted,75000,5,1,1,Aor-BGA:26
+Transportation,Walker,All-Terrain Anti-Aircraft,4,1,-2,AT-AA,Rothana Heavy Industries,3,25,2,Restricted,135000,7,0,1,SoT:49
+Transportation,Wheel Bike,Gallis-Tech 48 Roller,2,3,-2,48 Roller,Gallis-Tech,1,5,0,Nonrestricted,750,5,0,0,FaD-CRB:256
+Transportation,Wheel Bike,Tsmeu-6 Personal Wheel Bike,2,3,-1,Tsmeu-6,Z-Gomot Ternbuell Guppat Corporation,1,5,0,Nonrestricted,15000,7,2,1,KtP:59

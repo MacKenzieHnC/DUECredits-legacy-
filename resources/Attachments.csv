@@ -1,0 +1,166 @@
+Class,Legality,Type,Name,Price,Encumbrance,Hardpoints Required,Rarity,Index
+Attachments,Nonrestricted,Armor Attachment,Chedak Communications Multi-Band Comlink,200,0,0,1,DC: 53
+Attachments,Nonrestricted,Armor Attachment,Reinforced Gauntlets,250,0,2,2,SM: 58
+Attachments,Nonrestricted,Armor Attachment,Integrated Ascension Gear,350,0,2,3,SM: 57
+Attachments,Nonrestricted,Armor Attachment,Custom Fit,400,0,1,3,SM: 57
+Attachments,Nonrestricted,Armor Attachment,Amphibious Modification,500,0,1,4,SM: 57
+Attachments,Nonrestricted,Armor Attachment,Armor Spikes,500,2,3,2,KtP: 56
+Attachments,Nonrestricted,Armor Attachment,Energy Dispersion System,500,0,1,4,FaD-CRB: 201
+Attachments,Nonrestricted,Armor Attachment,Radiation Shielding,500,0,1,3,SM: 58
+Attachments,Nonrestricted,Armor Attachment,Quick Shed,650,0,1,6,KtP: 57
+Attachments,Nonrestricted,Armor Attachment,In-Helmet Scanner,750,0,1,4,FaD-CRB: 201
+Attachments,Nonrestricted,Armor Attachment,Integrated Slicer Gear,750,0,3,6,SM: 58
+Attachments,Nonrestricted,Armor Attachment,Low-Friction Coating,750,0,1,5,KtP: 56
+Attachments,Nonrestricted,Armor Attachment,Threat Monitor,750,0,1,4,LoNH: 106
+Attachments,Nonrestricted,Armor Attachment,Hardened,900,2,2,4,KtP: 56
+Attachments,Nonrestricted,Armor Attachment,Cryoncorp Omniscan 3 Integrated Scanner,1000,0,1,4,DC: 54
+Attachments,Nonrestricted,Armor Attachment,Heating System,1000,0,1,3,Aor-CRB: 206 // EotEotE-CRB: 194 // FaD-CRB: 201
+Attachments,Nonrestricted,Armor Attachment,Merr-Sonn VX Hands-Free Weapon System,1000,0,2,6,DC: 53
+Attachments,Nonrestricted,Armor Attachment,Thermal Shielding System,1000,0,1,3,Aor-CRB: 207 // EotEotE-CRB: 194 // FaD-CRB: 201
+Attachments,Nonrestricted,Armor Attachment,Vacuum Sealed,1000,0,1,3,Aor-CRB: 207 // EotEotE-CRB: 195 // KtP: 57
+Attachments,Restricted,Armor Attachment,Reflec Shadowskin,1200,0,1,6,KtP: 57
+Attachments,Nonrestricted,Armor Attachment,"Taggeco MB-7 ""Ranger"" Range Finder",1500,0,1,6,DC: 54
+Attachments,Nonrestricted,Armor Attachment,Enhanced Optics Suite,1750,0,1,3,Aor-CRB: 206 // EotEotE-CRB: 194
+Attachments,Nonrestricted,Armor Attachment,Stun Matrix,1750,1,3,3,KtP: 57
+Attachments,Nonrestricted,Armor Attachment,Ion Shielding,2000,0,1,7,SM: 58
+Attachments,Nonrestricted,Armor Attachment,Reactive Plating,2000,4,4,6,KtP: 57
+Attachments,Nonrestricted,Armor Attachment,Athakam Medtech Smartmed 2000 Integrated Med-Systems,2500,1,2,7,DC: 53
+Attachments,Nonrestricted,Armor Attachment,Kiirium Coating,2500,1,2,7,KtP: 56
+Attachments,Nonrestricted,Armor Attachment,"Industrial Automaton ""Accu-Strike"" Integrated Targeting Computer",3000,0,1,7,DC: 54
+Attachments,Nonrestricted,Armor Attachment,Self-Repair Systems,3000,0,2,6,SM: 58
+Attachments,Nonrestricted,Armor Attachment,Biofeedback System,3300,0,2,5,FaD-CRB: 200
+Attachments,Nonrestricted,Armor Attachment,Superior Armor Customization,5000,0,1,6,Aor-CRB: 206 // EotEotE-CRB: 195 // FaD-CRB: 201
+Attachments,Nonrestricted,Armor Attachment,Optical Camouflage System,5500,0,2,6,Aor-CRB: 206 // EotEotE-CRB: 195
+Attachments,Nonrestricted,Armor Attachment,Strength Enhancing System,5500,0,2,4,Aor-CRB: 206 // EotEotE-CRB: 194
+Attachments,Nonrestricted,Armor Attachment,Cortosis Weave,10000,0,2,8,Aor-CRB: 205 // EotEotE-CRB: 194
+Attachments,Nonrestricted,Lightsaber Attachment,Training Lightsaber Emitter,100,0,2,6,FaD-CRB: 200
+Attachments,Nonrestricted,Lightsaber Attachment,Curved Hilt,1000,0,1,6,FaD-CRB: 196
+Attachments,Lightsaber,Lightsaber Attachment,Cyclic Crystal Array,1500,0,2,8,KtP: 53
+Attachments,Nonrestricted,Lightsaber Attachment,Extended Hilt,3800,0,1,7,FaD-CRB: 197
+Attachments,Nonrestricted,Lightsaber Attachment,Dual-Phase Modification,4500,0,2,6,FaD-CRB: 197
+Attachments,Nonrestricted,Lightsaber Attachment,Superior Hilt Personalization,5000,0,1,6,FaD-CRB: 200
+Attachments,Lightsaber,Lightsaber Attachment,Kimber Stone,6500,0,2,8,KtP: 55
+Attachments,Lightsaber,Lightsaber Attachment,Ilum Crystal,9000,0,2,10,FaD-CRB: 197
+Attachments,Lightsaber,Lightsaber Attachment,Lorrdian Gemstone,9600,0,2,8,FaD-CRB: 199
+Attachments,Lightsaber,Lightsaber Attachment,Mephite Crystal,10000,0,2,10,FaD-CRB: 200
+Attachments,Lightsaber,Lightsaber Attachment,Dantari Crystal,12000,0,2,9,FaD-CRB: 196
+Attachments,Lightsaber,Lightsaber Attachment,Dragite Gem,14000,0,2,7,FaD-CRB: 196
+Attachments,Lightsaber,Lightsaber Attachment,Barab Ingot,15000,0,2,8,FaD-CRB: 196
+Attachments,Lightsaber,Lightsaber Attachment,Krayt Dragon Pearl,15000,0,2,10,FaD-CRB: 199
+Attachments,Lightsaber,Lightsaber Attachment,Sorian Crystal,16000,0,4,4,KtP: 55
+Attachments,Lightsaber,Lightsaber Attachment,Sapith Gem,18000,0,2,10,FaD-CRB: 200
+Attachments,Nonrestricted,Vehicle Utility,Maneuvering Thrusters,500,-,1,0,JoY:47
+Attachments,Restricted,Vehicle Utility,Rapid Cargo Evacuation Chute,500,-,1,3,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Security Measures,500,-,0,4,SM:67
+Attachments,Nonrestricted,Vehicle Utility,Augmented Buffer,750,-,0,0,JoY:47
+Attachments,Nonrestricted,Vehicle Utility,Onboard Amenities Unit,750,-,1,3,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Interior Broadcast Suite,800,-,1,3,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Amphibious Modification,1000,-,1,5,SM:65
+Attachments,Nonrestricted,Vehicle Utility,Encrypted Computer,1000,-,0,6,SM:65
+Attachments,Nonrestricted,Vehicle Utility,Enhanced Repulsorlift,1000,-,1,3,SM:65
+Attachments,Nonrestricted,Vehicle Utility,Hydraulic Control Circuits,1000,-,2,7,AoR-CRB:286 // EotE-CRB:270 // FaD-CRB:270
+Attachments,Restricted,Vehicle Utility,Sienar T9 Stinger Assault Boarding Tube,1000,-,3,4,DC:61
+Attachments,Nonrestricted,Vehicle Utility,Upgraded Firepower,1000,-,0,0,JoY:48
+Attachments,Nonrestricted,Vehicle Utility,Smuggling Compartments,1200,-,1,1,EotE-CRB:270 // FaD-CRB:270
+Attachments,Nonrestricted,Vehicle Utility,Enhanced Carbon-Durasteel Armor,2000,-,2,3,AoR-CRB:286 // EotE-CRB:269 // FaD-CRB:269
+Attachments,Nonrestricted,Vehicle Utility,Luxury Passenger Compartments,2000,-,1,3,DA:65
+Attachments,Restricted,Vehicle Utility,Cloaked Smuggling Compartments,2200,-,1,4,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Physical Countermeasures,2200,-,1,4,SoT:64
+Attachments,Nonrestricted,Vehicle Utility,Briefing Auditorium,2500,-,1,4,LbE:58
+Attachments,Nonrestricted,Vehicle Utility,Hull/Keel Reinforcement,2500,-,2,4,SoT:64
+Attachments,Nonrestricted,Vehicle Utility,Repulsorlift Enhancement,2500,-,1,0,JoY:47
+Attachments,Nonrestricted,Vehicle Utility,Fabritech Fogger Smoke Generator,2750,-,1,2,DC:61
+Attachments,Nonrestricted,Vehicle Utility,All-Terrain Legs,3000,-,2,5,SM:65
+Attachments,Nonrestricted,Vehicle Utility,Astromech Droid Socket,3000,-,2,5,SoT:63
+Attachments,Nonrestricted,Vehicle Utility,Electronic Countermeasures Suite,3000,-,1,6,AoR-CRB:286 // EotE-CRB:269 // FaD-CRB:269
+Attachments,Nonrestricted,Vehicle Utility,Electronic Counter-Countermeasures Suite,3500,-,1,6,LbE:59
+Attachments,Restricted,Vehicle Utility,Nightshadow Coating,3500,-,1,8,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Reinforced Shield Generator,3800,-,2,5,AoR-CRB:286 // EotE-CRB:270 // FaD-CRB:270
+Attachments,Nonrestricted,Vehicle Utility,Advanced Targeting Array,4000,-,1,4,AoR-CRB:286 // EotE-CRB:269 // FaD-CRB:269
+Attachments,Nonrestricted,Vehicle Utility,Enhanced Hyperspace Shields,4000,-,1,5,SM:66
+Attachments,Nonrestricted,Vehicle Utility,"Tatical Command, Control, and Communications Suite",4200,-,1,6,LbE:59
+Attachments,Nonrestricted,Vehicle Utility,Hardened Circuits,4500,-,2,5,SoT:64
+Attachments,Nonrestricted,Vehicle Utility,Upgraded Comms Array,4800,-,1,6,AoR-CRB:287 // FaD-CRB:271
+Attachments,Restricted,Vehicle Utility,Decoy Buoy,5000,-,0,5,SM:65
+Attachments,Nonrestricted,Vehicle Utility,Holo-Tank,5000,-,1,4,LbE:59
+Attachments,Nonrestricted,Vehicle Utility,Laser Focusing Array,5000,-,2,6,SM:66
+Attachments,Nonrestricted,Vehicle Utility,Retrofitted Hanger Bay,5000,-,2,3,AoR-CRB:286 // EotE-CRB:271 // FaD-CRB:270
+Attachments,Nonrestricted,Vehicle Utility,Slicing Computer,5000,-,1,6,SM:67
+Attachments,Nonrestricted,Vehicle Utility,High-Output Ion Turbine,5300,-,1,5,AoR-CRB:286 // EotE-CRB:271 // FaD-CRB:269
+Attachments,Restricted,Vehicle Utility,Advanced Subspace Encryption Array,6000,-,1,7,DA:65
+Attachments,Nonrestricted,Vehicle Utility,Autopilot Droid Brain,6000,-,0,5,FC:62
+Attachments,Nonrestricted,Vehicle Utility,Sienar Grappler 213 Tactical Tractor Beam,6200,-,1,7,DC:62
+Attachments,Nonrestricted,Vehicle Utility,Hyperdrive Generator,6400,-,1,1,AoR-CRB:286 // EotE-CRB:271 // FaD-CRB:270
+Attachments,Nonrestricted,Vehicle Utility,Gunner Droid Brain,7000,-,0,6,SM:66
+Attachments,Nonrestricted,Vehicle Utility,Astrogation Droid Brain,7500,-,0,6,FC:62
+Attachments,Restricted,Vehicle Utility,Whisperthrust Engine,7500,-,1,7,FC:63
+Attachments,Nonrestricted,Vehicle Utility,Theater Command and Control System,8500,-,2,6,LbE:59
+Attachments,Nonrestricted,Vehicle Utility,Overcharged Ion Engines,9500,-,2,4,SM:66
+Attachments,Nonrestricted,Vehicle Utility,Slave Circuit,10000,-,1,2,SoT:65
+Attachments,Restricted,Vehicle Utility,Pseudo-Cloaking Device,12000,-,1,8,SM:66
+Attachments,Restricted,Vehicle Utility,Secondary Transponder,20000,-,1,7,SM:67
+Attachments,Restricted,Vehicle Utility,HoloNet Pirate Array,25000,-,2,8,DA:65
+Attachments,Nonrestricted,Vehicle Utility,Environmental Simulators,75000,-,2,6,DA:64
+Attachments,Restricted,Vehicle Weapon Attachment,Sienar MM-XT Mini-Missile Tube,700,-,1,4,DC:60
+Attachments,Nonrestricted,Vehicle Weapon Attachment,"Ax-108 ""Ground Buzzer"" Surface-Defense Blaster Cannon",2000,-,1,5,FC:62
+Attachments,Restricted,Vehicle Weapon Attachment,Oversized External Weapons Mount,3000,-,2,6,DC:60
+Attachments,Nonrestricted,Vehicle Weapon Attachment,Gravity Mine Launcher,3500,-,1,6,SoT:64
+Attachments,Nonrestricted,Vehicle Weapon Attachment,Ram Attachment,6500,-,2,3,SoT:65
+Attachments,Restricted,Vehicle Weapon Attachment,Arakyd Mini-Missile Pack,7000,-,1,5,DC:60
+Attachments,Restricted,Vehicle Weapon Attachment,Arakyd Missile Pack,10000,-,1,5,DC:60
+Attachments,Nonrestricted,Weapon Attachment,Filed Front Sight,25,0,1,0,Aor-CRB: 201 // EotEotE-CRB: 190
+Attachments,Nonrestricted,Weapon Attachment,Serrated Edge,50,0,1,1,Aor-CRB: 203 // EotEotE-CRB: 191 // FaD-CRB: 194
+Attachments,Nonrestricted,Weapon Attachment,Bipod Mount,100,0,1,1,Aor-CRB: 200 // EotEotE-CRB: 188 // FaD-CRB: 192
+Attachments,Nonrestricted,Weapon Attachment,Optimized Energy Cell,100,0,1,5,SM: 54
+Attachments,Nonrestricted,Weapon Attachment,Weapon Sling,100,0,1,0,Aor-CRB: 205 // EotEotE-CRB: 193 // FaD-CRB: 195
+Attachments,Nonrestricted,Weapon Attachment,Integrated Illuminator,200,1,1,4,KtP: 54
+Attachments,Nonrestricted,Weapon Attachment,Bowcaster Accelerator Enhancement,250,0,1,4,EotEotE-CRB: 189
+Attachments,Nonrestricted,Weapon Attachment,Forearm Grip,250,0,1,1,Aor-CRB: 201 // EotEotE-CRB: 190
+Attachments,Nonrestricted,Weapon Attachment,Magnetic Weapon Tether,250,0,1,2,KtP: 54
+Attachments,Restricted,Weapon Attachment,Removed Safety Features,250,0,0,2,SM: 55
+Attachments,Nonrestricted,Weapon Attachment,Shortened Barrel,250,0,1,4,Aor-CRB: 203 // EotEotE-CRB: 191
+Attachments,Nonrestricted,Weapon Attachment,Stripped Down,250,-1,3,4,SM: 56
+Attachments,Nonrestricted,Weapon Attachment,Telescopic Optical Sight,250,0,1,1,Aor-CRB: 203 // EotEotE-CRB: 192 // FaD-CRB: 195
+Attachments,Nonrestricted,Weapon Attachment,Tripod Mount,250,0,2,3,Aor-CRB: 204 // EotEotE-CRB: 193 // FaD-CRB: 195
+Attachments,Nonrestricted,Weapon Attachment,Weighted Head,250,0,2,3,Aor-CRB: 205 // EotEotE-CRB: 193 // FaD-CRB: 195
+Attachments,Nonrestricted,Weapon Attachment,Corellian Arms Model 2 Wrist Mount,275,0,2,5,DC: 52
+Attachments,Nonrestricted,Weapon Attachment,Paired Weapons,300,0,1,3,FC: 51
+Attachments,Nonrestricted,Weapon Attachment,Vibro-Bayonet,300,1,1,3,SM: 56
+Attachments,Nonrestricted,Weapon Attachment,Czerka H9 Pistol Grip,400,0,1,3,DC: 52
+Attachments,Restricted,Weapon Attachment,Poison Reservoir,400,0,1,5,LoNH: 105
+Attachments,Nonrestricted,Weapon Attachment,Secondary Ion Blaster,400,2,2,6,SM: 56
+Attachments,Nonrestricted,Weapon Attachment,Set Trigger,450,0,1,4,FC: 51
+Attachments,Nonrestricted,Weapon Attachment,Arakyd 900 Gene-Lock,500,0,1,7,DC: 51
+Attachments,Nonrestricted,Weapon Attachment,Blaster Actuating Module,500,0,1,4,Aor-CRB: 200 // EotEotE-CRB: 188
+Attachments,Nonrestricted,Weapon Attachment,Bowcaster Automatic Re-Cocker,500,0,1,3,EotEotE-CRB: 189
+Attachments,Nonrestricted,Weapon Attachment,Custom Grip,500,0,1,6,SM: 54
+Attachments,Nonrestricted,Weapon Attachment,Electronic Sighting System,500,0,1,4,SoR: 110
+Attachments,Nonrestricted,Weapon Attachment,Energy Overclock Setting,500,0,3,5,KtP: 53
+Attachments,Nonrestricted,Weapon Attachment,Night Vision Scope,500,0,1,3,FaD-CRB: 194
+Attachments,Nonrestricted,Weapon Attachment,"Sorosuub ""Bantha's Eye"" Laser Sight",500,0,1,5,DC: 52
+Attachments,Nonrestricted,Weapon Attachment,Under-Barrel Grapnel Launcher,500,2,2,3,SM: 56
+Attachments,Nonrestricted,Weapon Attachment,Weapon Harness,500,0,2,2,Aor-CRB: 205 // EotEotE-CRB: 193
+Attachments,Nonrestricted,Weapon Attachment,Overcharged Actuating Module,650,0,1,7,SM: 55
+Attachments,Nonrestricted,Weapon Attachment,Integrated Scanner,675,0,2,5,SM: 54
+Attachments,Restricted,Weapon Attachment,Blaster Energy Dampner,750,0,1,4,FaD-CRB: 194
+Attachments,Restricted,Weapon Attachment,Blaster Suppressor,750,0,1,5,SoR: 110 // LoNH: 106
+Attachments,Nonrestricted,Weapon Attachment,Rapid-Recharge XCiter,750,0,1,7,SM: 55
+Attachments,Restricted,Weapon Attachment,Underslung Scattergun,750,0,3,5,FC: 51
+Attachments,Nonrestricted,Weapon Attachment,Shield Discharge Pack,800,1,1,5,KtP: 54
+Attachments,Restricted,Weapon Attachment,Force-Attuned Resonator,1000,0,2,8,KtP: 54
+Attachments,Nonrestricted,Weapon Attachment,Gyrostabilizer,1000,0,2,6,SM: 54
+Attachments,Nonrestricted,Weapon Attachment,Mono-Molecular Edge,1000,0,1,5,Aor-CRB: 202 // EotEotE-CRB: 190 // FaD-CRB: 194
+Attachments,Nonrestricted,Weapon Attachment,Weapon Signature Reduction,1000,0,1,6,SoR: 110
+Attachments,Nonrestricted,Weapon Attachment,Marksman Barrel,1200,0,2,4,Aor-CRB: 202 // EotEotE-CRB: 190
+Attachments,Nonrestricted,Weapon Attachment,Balanced Hilt,1500,0,2,5,Aor-CRB: 200 // EotEotE-CRB: 188
+Attachments,Restricted,Weapon Attachment,Enhanced XCiter,1500,0,2,6,SM: 54
+Attachments,Restricted,Weapon Attachment,Overcharge Valve,1500,0,2,6,FC: 51
+Attachments,Restricted,Weapon Attachment,Shadowsheath,1500,0,1,5,FaD-CRB: 194
+Attachments,Nonrestricted,Weapon Attachment,Sonic Scope,1500,0,1,8,SM: 56
+Attachments,Nonrestricted,Weapon Attachment,Spread Barrel,1725,0,2,4,Aor-CRB: 203 // EotEotE-CRB: 191
+Attachments,Nonrestricted,Weapon Attachment,Augmented Spin Barrel,1750,0,2,4,Aor-CRB: 200 // EotEotE-CRB: 188
+Attachments,Nonrestricted,Weapon Attachment,Multi-Optic Sight,2000,0,1,3,Aor-CRB: 202 // EotEotE-CRB: 191
+Attachments,Restricted,Weapon Attachment,Under-Barrel Grenade Launcher,2000,0,2,5,Aor-CRB: 205 // EotEotE-CRB: 191
+Attachments,Nonrestricted,Weapon Attachment,"Sorosuub ""Final Word"" Secondary Missile System",3000,3,3,6,DC: 52
+Attachments,Restricted,Weapon Attachment,Under-Barrel Flame Projector,3000,0,2,5,Aor-CRB: 204 // EotEotE-CRB: 192
+Attachments,Nonrestricted,Weapon Attachment,Superior Weapon Customization,5000,0,1,6,Aor-CRB: 203 // EotEotE-CRB: 191 // FaD-CRB: 194

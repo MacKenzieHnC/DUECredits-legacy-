@@ -1,0 +1,232 @@
+Class,Legality,Name,Skill,Type,Damage,Crit,Range,Encumbrance,Hardpoints,Price,Rarity,Special,Index
+Weapons,Nonrestricted,Brass Knuckles,Brawl,Brawl,1,4,Engaged,1,0,25,0,Disorient 3,AoR-BGR:31 // AoR-CRB:180 // EotE-BGR:31 // EotE-CRB:166 // FaD-BGR:31 // FaD-CRB:171
+Weapons,Nonrestricted,Shock Gloves,Brawl,Brawl,0,5,Engaged,0,1,300,2,Stun 3,AoR-CRB:181 // EotE-CRB:166 // FaD-CRB:171
+Weapons,Nonrestricted,Czerka Vibroknuckles,Brawl,Brawl,1,2,Engaged,1,0,350,4,Pierce 1 //  Vicious1,DC:48
+Weapons,Restricted,Outlawtech Blast Knuckles,Brawl,Brawl,4,4,Engaged,2,0,500,6,Inaccurate 1,DC:48
+Weapons,Nonrestricted,Prax Arms S-1 Vamblade,Brawl,Brawl,1,3,Engaged,2,1,500,4,Defensive 1,DC:48
+Weapons,Restricted,Needle Gloves,Brawl,Brawl,0,5,Engaged,1,0,750,5,,DA:46
+Weapons,Nonrestricted,Refined Cortosis Gauntlets,Brawl,Brawl,1,4,Engaged,3,2,1000,7,Cortosis,FaD-CRB:171
+Weapons,Nonrestricted,Shock Boots,Brawl,Brawl,0,5,Engaged,2,0,1250,5,Disorient 3 //  Stun3,FC:45
+Weapons,Nonrestricted,Koromondain SVT-300 Stun Cloak,Brawl,Brawl,7,3,Engaged,2,0,1500,4,Limited Ammo 3 // Stun Damage,SoR:108
+Weapons,Nonrestricted,Shield Gauntlet,Brawl,Brawl,1,5,Engaged,1,0,1500,8,Deflection 2 //  Stun Damage,KtP:44
+Weapons,Nonrestricted,Backhand Shock Gloves,Brawl,Brawl,1,3,Engaged,0,2,2000,4,Concussive 1 // Stun Damage // Slow-Firing 1,FH:42
+Weapons,Nonrestricted,Merr-Sonn C-88 Fragmentation Missile,Gunnery,Gunnery,12,4,Extreme,0,0,75,7,Blast 12 //  Guided3,DC:47
+Weapons,Restricted,Merr-Sonn C908 Incendiary Missile,Gunnery,Gunnery,10,3,Extreme,0,0,145,7,Blast 10 //  Burn 3 // Guided 2,DC:47
+Weapons,Restricted,Merr-Sonn SK-44 Plasma Missile,Gunnery,Gunnery,16,3,Medium,0,0,160,8,Blast 14 // Cumbersome 3 // Inaccurate 1 // Pierce 2,DC:47
+Weapons,Nonrestricted,Golan Arms MK.10 Concussion Missle,Gunnery,Gunnery,14,4,Extreme,0,0,200,8,Blast 10 // Concussive 3 // Disorient 5 // Guided 2,DC:47
+Weapons,Restricted,Malaxan Z50 Grenade Launcher,Gunnery,Gunnery,8,4,Medium,5,3,1250,4,Blast 6 // Cumbersome 3 // Limited Ammo 6,DC:45
+Weapons,Nonrestricted,SakTek D-29 Repulsor Rifle,Gunnery,Gunnery,8,4,Medium,3,3,1550,7,Disorient 3 // Knockdown //  Stun Damage,LoNH:102
+Weapons,Restricted,Czerka CZ-28 Flamestrike,Gunnery,Gunnery,9,2,Short,8,3,2000,8,Burn 4 //  Blast 9 // Cumbersome 3 // Vicious 2,DC:45
+Weapons,Restricted,Golan Arms FC1 Flechette Launcher (Anti-Infantry),Gunnery,Gunnery,8,3,Medium,6,4,2500,6,Blast 8 // Cumbersome 3 // Limited Ammo 4 // Pierce 6 //  Prepare1 //  Vicious 1,DC:45
+Weapons,Restricted,Golan Arms FC1 Flechette Launcher (Anti-Vehicle),Gunnery,Gunnery,10,2,Medium,6,4,2500,6,Breach 2 // Cumbersome 3 // Limited Ammo 4 // Prepare 1 // Vicious 3,DC:45
+Weapons,Nonrestricted,"SoroSuub VX ""Sidewinder"" Repeating Blaster",Gunnery,Gunnery,12,3,Long,8,4,3350,7,Auto-Fire // Cumbersome 6 // Pierce 1 //  Vicious1,DC:43
+Weapons,Restricted,Heavy Repeating Blaster,Gunnery,Gunnery,15,2,Long,9,4,6000,8,Auto-Fire // Cumbersome 5 // Pierce 2 //  Vicious1,AoR-BGR:31 // AoR-CRB:176 // EotE-BGR:31 // EotE-CRB:162 // FaD-BGR:31
+Weapons,Restricted,SoroSuub HOB Heavy Repeating Blaster,Gunnery,Gunnery,15,3,Extreme,10,4,6500,8,Auto-Fire // Cumbersome 6 // Pierce 2 //  Vicious1,DC:44
+Weapons,Restricted,Missile Tube,Gunnery,Gunnery,20,2,Extreme,7,4,7500,8,Blast 10 // Cumbersome 3 // Guided 3 //  Breach1 //  Prepare 1 // Limited Ammo 6,AoR-CRB:178 // EotE-CRB:165 // FaD-CRB:170
+Weapons,Nonrestricted,Verpine Heavy Shatter Rifle,Gunnery,Gunnery,15,2,Extreme,4,4,45000,8,Accurate 2 // Knockdown // Pierce 6,SoR:106
+Weapons,Nonrestricted,Training Stick,Lightsaber,Lightsaber,1,5,Engaged,2,0,35,3,Accurate 1 // Disorient 1 //  Stun Damage,NoP:104
+Weapons,Nonrestricted,Basic Lightsaber Hilt,Lightsaber,Lightsaber,0,-,Engaged,1,5,300,5,,FaD-CRB:177
+Weapons,Nonrestricted,Shoto Hilt,Lightsaber,Lightsaber,0,-,Engaged,1,3,300,6,Accurate 1,FaD-CRB:177
+Weapons,Nonrestricted,Ancient Sword,Lightsaber,Lightsaber,2,3,Engaged,3,1,350,8,Defensive 1,FaD-BGR:31 // FaD-CRB:172
+Weapons,Nonrestricted,Training Lightsaber,Lightsaber,Lightsaber,6,-,Engaged,1,5,400,6,Stun Damage,FaD-CRB:178
+Weapons,Nonrestricted,Double-Bladed Lightsaber Hilt,Lightsaber,Lightsaber,0,-,Engaged,2,4,600,6,Linked 1 // Unwieldy 3,FaD-CRB:177
+Weapons,Nonrestricted,Lightsaber Pike Hilt,Lightsaber,Lightsaber,0,-,Engaged,3,3,600,7,Cumbersome 3 // Defensive 1,FaD-CRB:177
+Weapons,Nonrestricted,Guard Shoto Hilt,Lightsaber,Lightsaber,0,-,Engaged,1,3,700,7,Defensive 1 // Deflection 2 // Unwieldy 4,KtP:46
+Weapons,Nonrestricted,Temple Guard Lightsaber Pike Hilt,Lightsaber,Lightsaber,0,-,Engaged,2,4,2000,9,Defensive 1 // Linked 1 //  Stun 4 // Unwieldy 3,KtP:46
+Weapons,Lightsaber,Basic Lightsaber,Lightsaber,Lightsaber,6,2,Engaged,1,5,9300,10,Breach 1 //  Sunder,FaD-BGR:31* // FaD-CRB:176
+Weapons,Lightsaber,Shoto,Lightsaber,Lightsaber,5,2,Engaged,1,3,9300,10,Accurate 1 // Breach 1 //  Sunder,FaD-CRB:177
+Weapons,Lightsaber,Lightsaber Pike,Lightsaber,Lightsaber,6,2,Engaged,3,3,9600,10,Breach 1 // Cumbersome 3 // Defensive 1 // Sunder,FaD-CRB:176
+Weapons,Lightsaber,Guard Shoto,Lightsaber,Lightsaber,5,2,Engaged,1,3,9700,10,Breach 1 // Defensive 1 // Deflection 2 // Sunder //  Unwieldy4,KtP:46
+Weapons,Lightsaber,Lightsaber,Lightsaber,Lightsaber,10,1,Engaged,1,0,10000,10,Breach 1 //  Sunder // Vicious 2,AoR-CRB:182 // EotE-CRB:167
+Weapons,Lightsaber,Double-Bladed Lightsaber,Lightsaber,Lightsaber,6,2,Engaged,2,4,18600,10,Breach 1 //  Linked1 //  Sunder // Unwieldy 3,FaD-CRB:176
+Weapons,Lightsaber,Temple Guard Lightsaber Pike,Lightsaber,Lightsaber,6,2,Engaged,2,4,20000,10,Breach 1 // Defensive 1 // Linked 1 //  Sunder // Stun 4 //  Unwieldy3,KtP:46
+Weapons,Restricted,Anti-Personnel Mine,Mechanics,Mechanics,12,3,Engaged,3,0,850,6,Blast 4 //  Vicious 4 // Limited Ammo 1,AoR-CRB:179
+Weapons,Restricted,Anti-Vehicle Mine,Mechanics,Mechanics,25,2,Engaged,4,0,1400,6,Blast 2 //  Breach 4 // Limited Ammo 1,AoR-CRB:179
+Weapons,Nonrestricted,Micro-tools and drills,Melee,Melee,2,3,Engaged,0,0,0,0,Pierce 2,SM:53
+Weapons,Nonrestricted,Truncheon,Melee,Melee,2,5,Engaged,2,0,15,1,Disorient 2,AoR-BGR:31 // AoR-CRB:182 // EotE-BGR:31 // EotE-CRB:167 // FaD-BGR:31 // FaD-CRB:174
+Weapons,Nonrestricted,Combat Knife,Melee,Melee,1,3,Engaged,1,0,25,1,,AoR-BGR:31 // AoR-CRB:181 // EotE-BGR:31 // EotE-CRB:166 // FaD-CRB:172
+Weapons,Nonrestricted,Snap Baton,Melee,Melee,1,4,Engaged,1,1,50,4,Disorient 2,KtP:45
+Weapons,Nonrestricted,Punch Dagger,Melee,Melee,1,3,Engaged,1,1,75,4,Pierce 1,FC:46
+Weapons,Nonrestricted,Gaffi Stick,Melee,Melee,2,3,Engaged,3,0,100,2,Defensive 1 // Disorient 3,EotE-CRB:166
+Weapons,Nonrestricted,Parrying Dagger,Melee,Melee,1,3,Engaged,1,0,150,5,Defensive 1,KtP:45
+Weapons,Nonrestricted,Electromag-Pulse Disruptor,Melee,Melee,5,4,Engaged,1,0,180,5,Disorient 1 //  Ion,SM:44
+Weapons,Nonrestricted,Z2 Stun Baton,Melee,Melee,2,6,Engaged,2,2,200,4,Disorient 2 //  Stun Damage,FH:43
+Weapons,Nonrestricted,Voss Warspear,Melee,Melee,2,4,Engaged,4,2,215,8,Defensive 2,NoP:104
+Weapons,Nonrestricted,Blade-breaker,Melee,Melee,0,4,Engaged,1,1,250,5,Defensive 2 // Pierce 1 //  Sunder,FC:46
+Weapons,Nonrestricted,Diiro,Melee,Melee,1,3,Engaged,2,0,250,2,Defensive 1,CotG:26
+Weapons,Nonrestricted,Vibroknife,Melee,Melee,1,2,Engaged,1,2,250,3,Pierce 2 //  Vicious1,AoR-BGR:31 // AoR-CRB:182 // EotE-BGR:31 // EotE-CRB:167 // FaD-BGR:31 // FaD-CRB:175
+Weapons,Nonrestricted,Activv1 Riot Shield,Melee,Melee,0,6,Engaged,5,1,300,4,Cumbersome 3 // Defensive 2 // Deflection 2 // Disorient 1,FH:42
+Weapons,Nonrestricted,Bardottan Electrolance,Melee,Melee,2,3,Engaged,3,2,300,5,Defensive 2 //  Stun Setting,NoP:103
+Weapons,Nonrestricted,Corellian Cutlass,Melee,Melee,2,3,Engaged,2,1,300,3,Defensive 1 // Vicious 1,SoF:97
+Weapons,Nonrestricted,Weik Greatsword,Melee,Melee,4,3,Engaged,4,2,315,8,Cumbersome 4 // Defensive 1,NoP:104
+Weapons,Nonrestricted,Electronet,Melee,Melee,6,6,Engaged,2,0,350,6,Ensnare 5 // Knockdown // Limited Ammo 1 // Stun Damage,KtP:44
+Weapons,Nonrestricted,Staff of Office,Melee,Melee,2,4,Engaged,3,2,350,6,Defensive 1 // Disorient 2,DA:46
+Weapons,Nonrestricted,Stealth Vibroknife,Melee,Melee,1,2,Engaged,1,1,350,6,Pierce 1 //  Vicious1,DA:46
+Weapons,Nonrestricted,Drall Flashstick,Melee,Melee,2,-,Engaged,2,2,375,4,Disorient 3 //  Stun Damage,SoF:98
+Weapons,Nonrestricted,Parrying Vibroblade,Melee,Melee,1,2,Engaged,1,2,400,6,Defensive 1 // Pierce 2 //  Vicious1,KtP:45
+Weapons,Nonrestricted,Ryyk Blade,Melee,Melee,2,2,Engaged,3,3,400,8,Cumbersome 3 // Defensive 1 // Superior,DC:48
+Weapons,Nonrestricted,Gungan Electropole,Melee,Melee,2,4,Engaged,3,2,450,5,Stun 3 //  Stun Setting,NoP:103
+Weapons,Nonrestricted,Sword Cane,Melee,Melee,2,3,Engaged,2,1,475,6,Defensive 1,DA:47
+Weapons,Nonrestricted,Force Pike,Melee,Melee,3,2,Engaged,3,3,500,4,Pierce 2 //  Stun Setting,AoR-BGR:31 // AoR-CRB:181 // EotE-CRB:166 // FaD-BGR:31 // FaD-CRB:174
+Weapons,Nonrestricted,Hand Grinder,Melee,Melee,2,4,Engaged,5,4,500,3,Cumbersome 3 // Prepare 1 // Vicious 4,SM:47
+Weapons,Nonrestricted,MSW-9 Molecular Stiletto,Melee,Melee,0,2,Engaged,1,1,500,5,Pierce 5 //  Vicious1,FH:43
+Weapons,Nonrestricted,SoroSuub CS-12 Stun Master,Melee,Melee,6,3,Engaged,1,0,575,3,Disorient 2 //  Stun Damage,SoR:108
+Weapons,Nonrestricted,Longeing Whip,Melee,Melee,1,5,Short,3,1,600,4,Ensnare 2 //  Stun Damage,SoT:41
+Weapons,Nonrestricted,Ceremonial Blade,Melee,Melee,2,3,Engaged,2,3,650,7,Defensive 1,DA:46
+Weapons,Nonrestricted,Neuronic Whip,Melee,Melee,1,4,Short,1,1,750,6,Disorient 4 // Ensnare 1 //  Stun Damage,LoNH:104
+Weapons,Nonrestricted,Vibro-ax,Melee,Melee,3,2,Engaged,4,3,750,5,Pierce 2 //  Sunder // Vicious 3,AoR-CRB:182 // EotE-BGR:31 // EotE-CRB:167 // FaD-CRB:175
+Weapons,Nonrestricted,Vibrosword,Melee,Melee,2,2,Engaged,3,3,750,5,Pierce 2 //  Vicious1 //  Defensive 1,AoR-CRB:183 // EotE-CRB:167 // FaD-CRB:175
+Weapons,Restricted,SoroSuub Model 7 Therm-Ax,Melee,Melee,2,3,Engaged,4,3,850,5,Burn 2 //  Sunder // Vicious 1,DC:49
+Weapons,Nonrestricted,Thunderbolt Shock Prod,Melee,Melee,5,3,Engaged,2,2,875,6,Concussive 1 // Stun Damage,FH:43
+Weapons,Nonrestricted,Cortosis Shield,Melee,Melee,0,6,Engaged,4,0,900,7,Cortosis // Cumbersome 3 // Defensive 2 // Deflection 2,FaD-CRB:172
+Weapons,Nonrestricted,"Czerka ""Czerhander"" VX Vibro-Greatsword",Melee,Melee,3,2,Engaged,4,3,900,6,Defensive 1 // Pierce 2 //  Vicious2,DC:49
+Weapons,Nonrestricted,Laserhone Huntsman Vibrospear,Melee,Melee,3,3,Engaged,4,2,950,6,Pierce 2 //  Vicious2,EtU:43
+Weapons,Nonrestricted,Beastmaster's Vibro-Glaive,Melee,Melee,2,2,Engaged,3,3,975,6,Defensive 2 // Pierce 3,LoNH:103
+Weapons,Nonrestricted,Arg'garok,Melee,Melee,5,3,Engaged,5,3,1000,7,Cumbersome 5 // Inaccurate 1 // Pierce 1 //  Sunder,LoNH:103
+Weapons,Nonrestricted,Energy Buckler,Melee,Melee,0,5,Engaged,1,0,1000,7,Concussive 1 // Defensive 1 // Deflection 1,KtP:44
+Weapons,Nonrestricted,Gungan Personal Energy Shield,Melee,Melee,-1,5,Engaged,4,0,1000,7,Defensive 2 // Deflection 2,NoP:103
+Weapons,Nonrestricted,Mon Calamari Coral Pike,Melee,Melee,3,2,Engaged,3,3,1000,6,Defensive 1 // Pierce 2,SoR:108
+Weapons,Nonrestricted,"SoroSuub ""Persuader"" Animal Shock Prod",Melee,Melee,2,4,Engaged,4,2,1000,4,Concussive 1 // Slow-Firing 1 // Stun Setting,SoT:41
+Weapons,Nonrestricted,Tuskbeast Pike,Melee,Melee,4,3,Engaged,3,1,1050,8,Defensive 1 // Knockdown,LoNH:104
+Weapons,Nonrestricted,Karflo Corporation G9-GP Pulse Drill,Melee,Melee,5,4,Engaged,5,2,1100,4,Breach 1 // Cumbersome 3 // Inaccurate 2,SoR:139* // EtU:42
+Weapons,Nonrestricted,Selonian Glaive,Melee,Melee,3,3,Engaged,5,3,1200,7,Defensive 1 // Pierce 3,SoF:98
+Weapons,Nonrestricted,Vibrorapier,Melee,Melee,2,2,Engaged,2,2,1200,7,Defensive 1 // Pierce 5,FC:46
+Weapons,Nonrestricted,Cortosis Sword,Melee,Melee,2,3,Engaged,3,2,1350,7,Cortosis // Defensive 1,FaD-CRB:173
+Weapons,Nonrestricted,Mk VIII Vibrosaw,Melee,Melee,4,2,Engaged,6,3,1500,5,Cumbersome 5 // Pierce 2 //  Sunder // Vicious 2,EtU:43
+Weapons,Nonrestricted,Mon Calamari Energy Lance,Melee,Melee,3,2,Engaged,4,2,1500,6,Cumbersome 3 // Pierce 3,SoR:108
+Weapons,Nonrestricted,Rodian Cryogen Whip,Melee,Melee,2,3,Short,1,1,1550,7,Ensnare 1 // Vicious 2 // Unwieldy 3,KtP:45
+Weapons,Nonrestricted,Welding Rod,Melee,Melee,3,2,Engaged,4,0,1750,5,Breach 1 // Inaccurate 2,SM:47
+Weapons,Nonrestricted,Refined Cortosis Staff,Melee,Melee,3,5,Engaged,4,2,2500,7,Cortosis,FaD-CRB:173
+Weapons,Nonrestricted,Corellia Mining Corporation J-7B Beamdrill,Melee,Melee,9,2,Engaged,6,0,3000,5,Breach 1 // Cumbersome 4 // Inaccurate 2 // Sunder,SoF:98
+Weapons,Nonrestricted,Electrostaff,Melee,Melee,4,3,Engaged,4,3,4500,6,Cortosis // Cumbersome 3 // Linked 1 //  Stun Setting //  Unwieldy3,FaD-CRB:173
+Weapons,Restricted,Morgukai Cortosis Staff,Melee,Melee,8,1,Engaged,3,0,9000,10,Breach 1 // Cortosis // Defensive 1,LoNH:104
+Weapons,Restricted,Sith Shield,Melee,Melee,1,4,Engaged,3,2,10000,10,Cortosis // Defensive 1 // Deflection 2 // Vicious 1,KtP:45
+Weapons,Nonrestricted,Mini-Torpedo (Ink),Ranged (Heavy),Ranged (Heavy),0,-,Long,1,0,50,5,Disorient 4 // Limited Ammo 1 // Blast 0,SoR:107
+Weapons,Nonrestricted,Mini-Torpedo (Anti-Personnel),Ranged (Heavy),Ranged (Heavy),8,2,Long,1,0,100,5,Blast 6 //  Limited Ammo 1,SoR:107
+Weapons,Nonrestricted,Mini-Torpedo (Net),Ranged (Heavy),Ranged (Heavy),0,-,Medium,1,0,100,5,Ensnare 6 // Limited Ammo 1 // Blast 0,SoR:107
+Weapons,Nonrestricted,Longbow,Ranged (Heavy),Ranged (Heavy),5,5,Long,5,1,120,4,Cumbersome 3 // Limited Ammo 1 // Pierce 1,NoP:102
+Weapons,Nonrestricted,Mini-Torpedo (Armor Piercing),Ranged (Heavy),Ranged (Heavy),12,3,Medium,1,0,150,6,Blast 2 //  Limited Ammo 1 //  Pierce4,SoR:107
+Weapons,Nonrestricted,Mini-Torpedo (Ion),Ranged (Heavy),Ranged (Heavy),10,2,Long,1,0,150,6,Blast 8 //  Ion // Limited Ammo 1,SoR:107
+Weapons,Nonrestricted,Corellian Compound Bow,Ranged (Heavy),Ranged (Heavy),5,5,Medium,3,1,200,5,Cumbersome 3 // Knockdown // Limited Ammo 1 // Pierce 1,SoF:97
+Weapons,Nonrestricted,Repulsor Gun,Ranged (Heavy),Ranged (Heavy),3,5,Short,5,0,200,3,Knockdown,SM:46
+Weapons,Nonrestricted,Styanax Lance,Ranged (Heavy),Ranged (Heavy),8,3,Short,8,2,200,8,Cumbersome 4 // Limited Ammo 1 // Pierce 3 //  Vicious1,SoF:97
+Weapons,Nonrestricted,Glunok FYR Assault Carbine,Ranged (Heavy),Ranged (Heavy),6,5,Short,4,1,250,4,Auto-Fire // Inaccurate 1,DC:45
+Weapons,Nonrestricted,Slugthrower Rifle,Ranged (Heavy),Ranged (Heavy),7,5,Medium,5,1,250,3,Cumbersome 2,AoR-CRB:177 // EotE-CRB:164 // FaD-CRB:169
+Weapons,Nonrestricted,Ion Thruster Gun,Ranged (Heavy),Ranged (Heavy),5,4,Short,8,0,300,2,Concussive 1 // Cumbersome 5 // Ion //  Prepare 1,SM:45
+Weapons,Nonrestricted,Mini-Torpedo (Stun),Ranged (Heavy),Ranged (Heavy),8,2,Long,1,0,300,5,Blast 4 // Concussive 2 // Limited Ammo 1 // Stun Damage,SoR:107
+Weapons,Nonrestricted,TaggeCo CryoBan Projector,Ranged (Heavy),Ranged (Heavy),6,2,Short,3,0,500,4,Blast 6 // Cumbersome 3 // Vicious 2,FC:45
+Weapons,Nonrestricted,Tangle Gun 7,Ranged (Heavy),Ranged (Heavy),1,4,Short,2,1,500,5,Ensnare 3,FH:42
+Weapons,Nonrestricted,Adostic Arms 8-Gauge Scatter Gun,Ranged (Heavy),Ranged (Heavy),7,6,Short,3,2,550,4,Blast 3 // Knockdown,FC:44
+Weapons,Nonrestricted,E-5 Blaster Carbine,Ranged (Heavy),Ranged (Heavy),9,3,Medium,3,4,550,3,Inaccurate 1 // Stun Setting,SoT:40
+Weapons,Nonrestricted,SKZ Sporting Blaster,Ranged (Heavy),Ranged (Heavy),8,4,Long,3,4,600,4,Stun Setting,SoF:96
+Weapons,Nonrestricted,"Palandrix AO14 ""Aranea"" Net Gun",Ranged (Heavy),Ranged (Heavy),3,-,Short,4,2,750,5,Ensnare 5,EtU:42
+Weapons,Nonrestricted,Vodran Hunting Rifle,Ranged (Heavy),Ranged (Heavy),7,4,Long,4,2,800,7,Cumbersome 2,LoNH:102
+Weapons,Nonrestricted,Blaster Carbine,Ranged (Heavy),Ranged (Heavy),9,3,Medium,3,4,850,5,Stun Setting,AoR-BGR:31 // AoR-CRB:175 // EotE-BGR:31 // EotE-CRB:162 // FaD-BGR:31 // FaD-CRB:168
+Weapons,Nonrestricted,Weequay Blaster Lance,Ranged (Heavy),Ranged (Heavy),8,3,Extreme,5,2,850,6,Accurate 1 // Cumbersome 2,LoNH:100
+Weapons,Nonrestricted,Arakyd Accelerated Charged Particle Array Gun,Ranged (Heavy),Ranged (Heavy),6,3,Short,3,3,890,6,Blast 5 //  Stun Damage,DC:42
+Weapons,Nonrestricted,Blaster Rifle,Ranged (Heavy),Ranged (Heavy),9,3,Long,4,4,900,5,Stun Setting,AoR-BGR:31 // AoR-CRB:175 // EotE-BGR:31 // EotE-CRB:162 // FaD-BGR:31 // FaD-CRB:168
+Weapons,Nonrestricted,Herloss HBt-4 Hunting Blaster,Ranged (Heavy),Ranged (Heavy),10,3,Medium,5,2,900,6,Cumbersome 2 // Stun Setting,FC:44
+Weapons,Nonrestricted,Corondexx VES-700 Pulse Rifle,Ranged (Heavy),Ranged (Heavy),8,3,Medium,4,3,950,6,Blast 6 //  Stun Setting,FC:44
+Weapons,Nonrestricted,ACP Repeater Gun,Ranged (Heavy),Ranged (Heavy),7,3,Medium,3,1,1000,6,Auto-Fire //  Stun Setting,LoNH:100
+Weapons,Nonrestricted,DDC-MR6 Modular Rifle,Ranged (Heavy),Ranged (Heavy),7,3,Medium,3,6,1000,6,Stun Setting,SM:44
+Weapons,Nonrestricted,Flame Projector,Ranged (Heavy),Ranged (Heavy),8,2,Short,6,2,1000,6,Burn 3 //  Blast 8,AoR-CRB:178 // EotE-CRB:165
+Weapons,Restricted,Salus DF-D1 Duo-Flechette Rifle,Ranged (Heavy),Ranged (Heavy),9,3,Short,3,3,1000,5,Blast 4 //  Limited Ammo 5 //  Linked1 //  Vicious 2,SoR:106
+Weapons,Nonrestricted,Field Sports Model 77 Air Rifle,Ranged (Heavy),Ranged (Heavy),6,-,Long,3,3,1100,6,Pierce 4 //  Stun Damage,EtU:39
+Weapons,Nonrestricted,SoroSuub OK-98 Blaster Carbine,Ranged (Heavy),Ranged (Heavy),9,3,Medium,4,3,1100,5,Stun Setting,DC:43
+Weapons,Nonrestricted,SWE/2 Sonic Rifle,Ranged (Heavy),Ranged (Heavy),8,6,Long,4,3,1200,6,Concussive 1 // Slow-Firing 1 // Stun Damage,FH:40
+Weapons,Nonrestricted,Bowcaster,Ranged (Heavy),Ranged (Heavy),10,3,Medium,5,2,1250,7,Cumbersome 3 // Knockdown,EotE-BGR:31 // EotE-CRB:162
+Weapons,Nonrestricted,Tenloss L70 Acid Projector,Ranged (Heavy),Ranged (Heavy),6,2,Short,4,1,1250,7,Blast 6 //  Burn 3 // Vicious 1,LoNH:102
+Weapons,Nonrestricted,BlasTech DLS-12 Heavy Blaster Carbine,Ranged (Heavy),Ranged (Heavy),10,3,Medium,4,3,1350,7,Auto-Fire // Cumbersome 2,KtP:42
+Weapons,Nonrestricted,Mon Calamari Spear Blaster (Blaster),Ranged (Heavy),Ranged (Heavy),8,3,Long,5,3,1350,5,Stun Setting,SoR:106
+Weapons,Nonrestricted,Czerka Arms KS23 Hammer,Ranged (Heavy),Ranged (Heavy),8,4,Short,5,4,1500,5,Blast 6 // Knockdown,EtU:41
+Weapons,Nonrestricted,Heavy Blaster Rifle,Ranged (Heavy),Ranged (Heavy),10,3,Long,6,4,1500,6,Auto-Fire // Cumbersome 3,AoR-CRB:176 // EotE-CRB:162
+Weapons,Nonrestricted,Selonian Shard Shooter,Ranged (Heavy),Ranged (Heavy),5,3,Medium,4,2,1500,7,Auto-Fire //  Pierce1,SoF:97
+Weapons,Nonrestricted,Bola Carbine,Ranged (Heavy),Ranged (Heavy),8,3,Medium,3,3,1600,6,Accurate 1 // Ensnare 1,SoR:104
+Weapons,Nonrestricted,"Coronet Arms Mark V ""Sand Panther"" Hunting Rifle",Ranged (Heavy),Ranged (Heavy),7,5,Long,5,2,1750,7,Accurate 1 // Cumbersome 2,SoF:97
+Weapons,Nonrestricted,BlasTech DH-X Heavy Blaster Rifle,Ranged (Heavy),Ranged (Heavy),10,3,Long,7,4,1900,6,Cumbersome 3 // Pierce 2,DC:43
+Weapons,Nonrestricted,Mon Cal Defenses Mini-Torpedo Launcher,Ranged (Heavy),Ranged (Heavy),8,2,Long,4,4,2000,6,Blast 6 // Cumbersome 2 // Limited Ammo 2,SoR:107
+Weapons,Nonrestricted,R-88 Suppressor Riot Rifle,Ranged (Heavy),Ranged (Heavy),8,-,Medium,4,2,2000,5,Blast 5 //  Disorient3 //  Stun Damage,FH:40
+Weapons,Restricted,Light Repeating Blaster,Ranged (Heavy),Ranged (Heavy),11,3,Long,7,4,2250,7,Auto-Fire // Cumbersome 4 // Pierce 1,AoR-CRB:176 // EotE-CRB:162
+Weapons,Nonrestricted,Stokhli Spray Stick,Ranged (Heavy),Ranged (Heavy),0,-,Long,4,0,2500,8,Accurate 2 // Ensnare 4 //  Slow-Firing 1 //  Stun 8,FH:41
+Weapons,Nonrestricted,BlasTech LBR-9 Stun Rifle,Ranged (Heavy),Ranged (Heavy),10,-,Long,6,4,2800,4,Disorient 2 //  Stun Damage,EtU:39
+Weapons,Nonrestricted,Czerka Arms Model 38 Sharpshooter's Rifle,Ranged (Heavy),Ranged (Heavy),8,3,Extreme,5,4,3000,6,Accurate 2 // Pierce 3,EtU:40
+Weapons,Restricted,BlasTech E-11s Sniper Rifle,Ranged (Heavy),Ranged (Heavy),10,3,Extreme,6,3,3500,7,Accurate 1 // Cumbersome 3 // Pierce 2 //  Slow-Firing 1,EtU:38
+Weapons,Restricted,Disruptor Rifle,Ranged (Heavy),Ranged (Heavy),10,2,Long,5,4,5000,6,Cumbersome 2 // Vicious 5,AoR-BGR:31 // AoR-CRB:176 // EotE-CRB:163 // FaD-BGR:31
+Weapons,Nonrestricted,Verpine Shatter Rifle,Ranged (Heavy),Ranged (Heavy),12,3,Extreme,3,3,30000,8,Knockdown // Pierce 4,SoR:106
+Weapons,Nonrestricted,Bola,Ranged (Light),Ranged (Light),2,-,Short,1,2,20,2,Ensnare 3 // Knockdown // Limited Ammo 1,EotE-CRB:164
+Weapons,Nonrestricted,Gungan Plasma Ball,Ranged (Light),Ranged (Light),5,3,Short,0,0,20,7,Burn 1 //  Ion // Limited Ammo 1,NoP:102
+Weapons,Nonrestricted,Net,Ranged (Light),Ranged (Light),2,-,Short,3,2,20,2,Ensnare 3 // Knockdown // Limited Ammo 1,EotE-CRB:164
+Weapons,Nonrestricted,12 Defender,Ranged (Light),Ranged (Light),5,5,Short,1,0,25,4,Inferior //  Limited Ammo 2,FH:40
+Weapons,Nonrestricted,Energy Slingshot,Ranged (Light),Ranged (Light),3,-,Short,1,0,40,4,Disorient 2 //  Stun Damage,NoP:102
+Weapons,Nonrestricted,Frag Grenade,Ranged (Light),Ranged (Light),8,4,Short,1,0,50,5,Blast 6 //  Limited Ammo 1,AoR-BGR:31 // AoR-CRB:178 // EotE-BGR:31 // EotE-CRB:165 // FaD-BGR:31 // FaD-CRB:170
+Weapons,Nonrestricted,Poison Gas Grenade,Ranged (Light),Ranged (Light),0,-,Short,1,0,50,5,Blast 2 //  Limited Ammo 1,LoNH:102
+Weapons,Nonrestricted,Ascian Throwing Dagger,Ranged (Light),Ranged (Light),1,2,Short,1,0,65,7,Pierce 2 //  Limited Ammo 1,FC:45
+Weapons,Nonrestricted,Aurateran Boomerang,Ranged (Light),Ranged (Light),4,5,Medium,1,0,65,6,Guided 1 //  Limited Ammo 1,NoP:102
+Weapons,Nonrestricted,Kirgo Blastworks Lightning 22 Ion Grenade,Ranged (Light),Ranged (Light),10,5,Short,1,0,65,4,Blast 7 //  Disorient5 //  Ion //  Limited Ammo 1,DC:46
+Weapons,Restricted,Golan Arms MK.4 Heavy Fragmentation Grenade,Ranged (Light),Ranged (Light),9,4,Short,1,0,75,5,Blast 7 //  Limited Ammo 1 // Cumbersome 2,DC:47
+Weapons,Restricted,Merr-Sonn D-24 Inferno Grenade,Ranged (Light),Ranged (Light),8,3,Short,1,0,75,5,Blast 5 //  Burn 2 // Limited Ammo 1,DC:46
+Weapons,Nonrestricted,Stun Grenade,Ranged (Light),Ranged (Light),8,-,Short,1,0,75,4,Disorient 3 //  Stun Damage //  Blast 8 // Limited Ammo 1,AoR-BGR:31 // AoR-CRB:179 // EotE-BGR:31 // EotE-CRB:165 // FaD-BGR:31 // FaD-CRB:170
+Weapons,Nonrestricted,Armor Piercing Grenade,Ranged (Light),Ranged (Light),16,3,Short,1,0,100,6,Blast 4 //  Limited Ammo 1 //  Pierce3,AoR-BGR:31 // AoR-CRB:179
+Weapons,Nonrestricted,Gungan Atlatl,Ranged (Light),Ranged (Light),5,3,Medium,2,0,100,7,Accurate 1 //  Burn1 //  Ion //  Limited Ammo 1,NoP:102
+Weapons,Restricted,Merr-Sonn G2 Concussion Grenade,Ranged (Light),Ranged (Light),10,5,Short,1,0,100,5,Blast 8 // Concussive 2 // Disorient 5 // Limited Ammo 1,DC:46
+Weapons,Nonrestricted,Merr-Sonn Munitions G-20 Glop Grenade,Ranged (Light),Ranged (Light),0,-,Short,1,0,100,6,Ensnare 3 // Blast -,EtU:42
+Weapons,Nonrestricted,Slugthrower Pistol,Ranged (Light),Ranged (Light),4,5,Short,1,0,100,3,,AoR-CRB:177 // EotE-CRB:164 // FaD-CRB:169
+Weapons,Nonrestricted,SoroSuub Wipe-3 Data-Purge Grenade,Ranged (Light),Ranged (Light),0,-,Short,1,0,100,7,Limited Ammo 1,DA:45
+Weapons,Nonrestricted,Knockout Grenade,Ranged (Light),Ranged (Light),12,-,Short,1,0,120,5,Blast 10 //  Stun Damage //  Limited Ammo 1,FC:45
+Weapons,Nonrestricted,Kirgo Blastworks Nova40 Plasma Grenade,Ranged (Light),Ranged (Light),12,3,Short,1,0,125,6,Blast 10 //  Limited Ammo 1,DC:47
+Weapons,Nonrestricted,"ASP-9 ""Vrelt"" Autopistol",Ranged (Light),Ranged (Light),4,5,Short,1,0,150,4,Auto-Fire,SoF:96
+Weapons,Nonrestricted,CDEF Blaster Pistol,Ranged (Light),Ranged (Light),5,4,Medium,1,1,150,4,Inferior //  Stun Setting,SoF:94
+Weapons,Nonrestricted,Merr-Sonn N-4 Noise Grenade,Ranged (Light),Ranged (Light),4,6,Short,1,0,150,5,Blast 4 //  Stun Damage // Concussive 1 // Limited Ammo 1,DA:44
+Weapons,Nonrestricted,"Goseia HIC ""Mercy"" Grenade",Ranged (Light),Ranged (Light),5,-,Short,1,0,175,8,Blast 5 //  Stun Damage //  Limited Ammo 1,DA:45
+Weapons,Nonrestricted,Brennkeyes Syndicate Knockout Mine,Ranged (Light),Ranged (Light),6,-,Short,1,0,200,6,Stun Damage // Limited Ammo 1,DA:45
+Weapons,Nonrestricted,Fed-Dub Protective Services Spukami Pocket Blaster Pistol,Ranged (Light),Ranged (Light),5,3,Short,1,1,200,2,Stun Setting,SoF:96
+Weapons,Nonrestricted,Holdout Blaster,Ranged (Light),Ranged (Light),5,4,Short,1,1,200,4,Stun Setting,AoR-BGR:31 // AoR-CRB:174 // EotE-BGR:31* // EotE-CRB:161 // FaD-BGR:31* // FaD-CRB:167
+Weapons,Nonrestricted,"XET Industries Model C ""Fiver"" Self-Defense Pistol",Ranged (Light),Ranged (Light),5,4,Short,2,1,200,4,Accurate 1 // Limited Ammo 5,DC:45
+Weapons,Nonrestricted,Ionization blaster,Ranged (Light),Ranged (Light),10,5,Short,3,3,250,3,Disorient 5 //  Ion,AoR-CRB:176* // EotE-CRB:162
+Weapons,Nonrestricted,Model Q4 Quickfire Holdout Blaster,Ranged (Light),Ranged (Light),5,3,Short,1,0,250,4,Stun Setting,FH:40
+Weapons,Nonrestricted,Mon Calamari Battle Baton,Ranged (Light),Ranged (Light),5,4,Medium,1,1,250,6,Stun Setting,SoR:105
+Weapons,Nonrestricted,Multi-Goo Gun,Ranged (Light),Ranged (Light),2,-,Short,2,1,250,1,Disorient 1 // Ensnare 4 // Knockdown,SM:45
+Weapons,Nonrestricted,Light Blaster Pistol,Ranged (Light),Ranged (Light),5,4,Medium,1,2,300,4,Stun Setting,AoR-BGR:31 // AoR-CRB:174 // EotE-BGR:31 // EotE-CRB:161 // FaD-BGR:31 // FaD-CRB:167
+Weapons,Nonrestricted,Prax Arms Stealth-2VX Palm Shooter,Ranged (Light),Ranged (Light),1,5,Short,0,0,300,5,Limited Ammo 3,LoNH:102
+Weapons,Restricted,Czerka Arms 411 Holdout Blaster,Ranged (Light),Ranged (Light),4,4,Medium,1,1,350,5,Stun Setting,FC:43
+Weapons,Nonrestricted,"Kelvarek Consolidated Arms KD-30 ""Dissuader"" Pistol",Ranged (Light),Ranged (Light),4,5,Short,2,0,350,6,Pierce 2 //  Vicious1,LoNH:102
+Weapons,Nonrestricted,Blaster Pistol,Ranged (Light),Ranged (Light),6,3,Medium,1,3,400,4,Stun Setting,AoR-BGR:31 // AoR-CRB:174 // EotE-BGR:31 // EotE-CRB:161 // FaD-BGR:31 // FaD-CRB:167
+Weapons,Nonrestricted,Czerka Arms A95 Stingbeam,Ranged (Light),Ranged (Light),5,3,Engaged,1,0,400,5,Stun Setting // Vicious 1,FC:42
+Weapons,Nonrestricted,ELG-3A Blaster Pistol,Ranged (Light),Ranged (Light),6,4,Short,1,0,400,5,Stun Setting,DA:44
+Weapons,Nonrestricted,Spore/B Stun Grenade,Ranged (Light),Ranged (Light),6,3,Short,1,0,400,5,Blast 6 // Concussive 2 // Limited Ammo 1 // Stun Damage,SoR:107
+Weapons,Nonrestricted,Variable Holdout Blaster,Ranged (Light),Ranged (Light),1,4,Short,1,0,400,7,Limited Ammo 12 // Damage setting 1 to 7,SoR:104
+Weapons,Nonrestricted,Liquidsilver L7 Light Blaster Pistol,Ranged (Light),Ranged (Light),6,3,Medium,1,1,425,4,Stun Setting,FC:43
+Weapons,Nonrestricted,BlasTech DL-19C Blaster Pistol,Ranged (Light),Ranged (Light),5,4,Medium,1,4,450,4,Stun Setting,SM:44
+Weapons,Nonrestricted,Coronet Arms HL-27 Light Blaster Pistol,Ranged (Light),Ranged (Light),5,3,Medium,1,2,450,4,Accurate 1 //  Stun Setting,SoF:94
+Weapons,Nonrestricted,"Merr-sonn Model 53 ""Quicktrigger"" Blaster Pistol",Ranged (Light),Ranged (Light),6,3,Medium,1,4,450,4,Stun Setting,FC:43
+Weapons,Nonrestricted,"Talus Ironworks XL-2 ""Flashfire"" Light Blaster Pistol",Ranged (Light),Ranged (Light),5,3,Medium,1,3,450,5,Disorient 1 //  Stun Setting,SoF:95
+Weapons,Nonrestricted,Merr-Sonn Model 44 Blaster Pistol,Ranged (Light),Ranged (Light),6,3,Medium,1,4,500,4,Stun Setting,DC:41
+Weapons,Nonrestricted,Military Holdout Blaster,Ranged (Light),Ranged (Light),6,3,Short,1,0,500,5,Stun Setting,DA:44
+Weapons,Nonrestricted,Merr-Sonn Model 80 Blaster Pistol,Ranged (Light),Ranged (Light),6,2,Medium,2,3,550,5,Stun Setting,DC:41
+Weapons,Nonrestricted,Corellian Arms CR-2 Heavy Blaster Pistol,Ranged (Light),Ranged (Light),7,4,Medium,2,2,600,5,Stun Setting,SoF:96
+Weapons,Nonrestricted,Defender Sporting Blaster Pistol,Ranged (Light),Ranged (Light),5,3,Medium,1,1,650,6,Stun Setting // Accurate 1,DA:44
+Weapons,Nonrestricted,Palandrix KO-2 Heavy Stun Pistol,Ranged (Light),Ranged (Light),8,-,Short,2,3,650,5,Stun Damage,KtP:42
+Weapons,Nonrestricted,Heavy Blaster Pistol,Ranged (Light),Ranged (Light),7,3,Medium,2,3,700,6,Stun Setting,AoR-BGR:31 // AoR-CRB:174 // EotE-BGR:31 // EotE-CRB:162 // FaD-BGR:31 // FaD-CRB:167
+Weapons,Nonrestricted,Coronet Arms Dueling Pistol,Ranged (Light),Ranged (Light),9,2,Short,2,2,750,5,Accurate 1 // Limited Ammo 1 // Pierce 1,SoF:94
+Weapons,Restricted,Greff-Timms ATA Pulse-Wave Blaster,Ranged (Light),Ranged (Light),5,3,Short,2,2,750,6,Vicious 3,LoNH:100
+Weapons,Nonrestricted,"Merr-Sonn IR-5 ""Intimidator"" Blaster Pistol",Ranged (Light),Ranged (Light),5,3,Medium,2,2,750,6,Auto-Fire // Inaccurate 1,DC:41
+Weapons,Nonrestricted,Droid Disruptor,Ranged (Light),Ranged (Light),6,3,Short,2,1,800,7,Vicious 3 // Droids Only,SoR:104
+Weapons,Restricted,FWG-5 Flechette Pistol,Ranged (Light),Ranged (Light),6,3,Short,1,2,825,7,Guided 3 //  Limited Ammo 3,FC:44
+Weapons,Restricted,BlasTech DL-7H Heavy Blaster Pistol,Ranged (Light),Ranged (Light),8,3,Medium,2,2,850,6,,DC:41
+Weapons,Nonrestricted,SSB-1 Static Pistol,Ranged (Light),Ranged (Light),2,4,Short,2,1,850,7,Disorient 1 //  Stun8,FC:45
+Weapons,Nonrestricted,Rivet Gun,Ranged (Light),Ranged (Light),4,3,Engaged,4,1,900,1,Ensnare 1 // Inaccurate 2 // Limited Ammo 1,SM:46
+Weapons,Nonrestricted,"SoroSuub ""Renegade"" Heavy Blaster Pistol",Ranged (Light),Ranged (Light),8,3,Medium,2,3,950,4,Inaccurate 1 // Stun Setting,SoR:106
+Weapons,Nonrestricted,BlasTech SE-14r Light Repeating Blaster,Ranged (Light),Ranged (Light),6,3,Medium,2,3,1000,6,Auto-Fire //  Stun Setting,DC:43
+Weapons,Nonrestricted,Boonta Blaster,Ranged (Light),Ranged (Light),6,3,Short,1,1,1000,8,Stun Setting,LoNH:100
+Weapons,Nonrestricted,"Czerka Arms C-10 ""Dragoneye Reaper"" Heavy Blaster Pistol",Ranged (Light),Ranged (Light),8,3,Medium,3,3,1000,7,Stun Setting,FC:43
+Weapons,Nonrestricted,SoroSuub X-30 Lancer Precision Blast Pistol,Ranged (Light),Ranged (Light),5,4,Long,1,3,1000,5,Accurate 1 // Pierce 2,EtU:38
+Weapons,Nonrestricted,Felebreck Droid Disabler,Ranged (Light),Ranged (Light),12,3,Short,1,1,1050,5,Concussive 1 // Ion //  Limited Ammo 3,FC:44
+Weapons,Nonrestricted,"Coronet Arms H-7 ""Equalizer"" Blaster Pistol",Ranged (Light),Ranged (Light),7,2,Medium,2,3,1200,8,Superior //  Stun Setting,SoF:95
+Weapons,Nonrestricted,Security S-5 Heavy Blaster Pistol,Ranged (Light),Ranged (Light),7,3,Medium,3,1,1250,7,Stun Setting,KtP:43
+Weapons,Nonrestricted,HH-50 Heavy Blaster Pistol,Ranged (Light),Ranged (Light),7,3,Short,3,2,1300,7,Linked 1 //  Stun Setting //  Vicious 1,SoT:41
+Weapons,Restricted,Site-145 Replica Blaster Pistol,Ranged (Light),Ranged (Light),6,3,Medium,1,0,1750,8,Stun Setting,KtP:43
+Weapons,Nonrestricted,"DR-45 ""Dragoon"" Cavalry Blaster",Ranged (Light),Ranged (Light),8,3,Medium,1,3,1900,6,Accurate 1 //  Stun Setting,SoT:40
+Weapons,Restricted,Thermal Detonator,Ranged (Light),Ranged (Light),20,2,Short,1,0,2000,8,Blast 15 //  Breach1 //  Vicious 4 // Limited Ammo 1,AoR-CRB:180 // EotE-BGR:31 // EotE-CRB:165 // FaD-CRB:170
+Weapons,Restricted,Disruptor Pistol,Ranged (Light),Ranged (Light),10,2,Short,2,2,3000,6,Vicious 4,AoR-CRB:176 // EotE-CRB:163
+Weapons,Nonrestricted,"Raider Arms Model-1 ""Nova Viper"" Blaster Pistol",Ranged (Light),Ranged (Light),7,3,Medium,2,2,4500,9,Accurate 2 // Pierce 2 //  Stun Setting,FC:43
+Weapons,Nonrestricted,Verpine Shatter Pistol,Ranged (Light),Ranged (Light),8,3,Medium,1,2,15000,8,Knockdown // Pierce 2,SoR:106

@@ -1,0 +1,178 @@
+Class,Type,Name,Silhouette,Speed,Handling,Model,Manufacturer,Navicomputer/DroidSocket,Crew,Encumbrance,Legality,Passengers,Price,Rarity,Hardpoints,Weapons Count,Index
+Starships,Armed Transport,Gozanti-Class Armed Transport,5,2,-3,Gozanti,Gallofree Yards Inc. and Corellian Engineering Corporation,Navicomputer,12,1000,Nonrestricted,12,200000,6,4,7,EotE-CRB: 277 // FC: 58
+Starships,Assault Ship,VT-49 Decimator,4,3,-3,VT-49 Decimator,Kuat Drive Yards,Navicomputer,4,60,Nonrestricted,6,160000,6,1,4,FC: 55
+Starships,Assault Starfighter,"Alpha-class XG-1 ""Star Wing"" Assault Gunboat",3,4,-2,Alpha-class,Cygnus Spaceworks,Navicomputer,1,8,Restricted,0,135000,7,2,2,FC: 54
+Starships,Barge,J-Type Diplomatic Barge,5,4,1,J-Type,Nubia Star Drives,Navicomputer,5,180,Nonrestricted,10,1000000,7,0,0,DA: 62
+Starships,Battlecruiser,Maelstrom-class Battle Cruiser,8,1,-3,Maelstrom-classs,Kuat Drive Yards,Navicomputer,45000,12500,Restricted,15000,158000000,8,2,120,LbE: 57
+Starships,Bulk Cruiser,Rendili Stardrive Neutron Star-Class Bulk Cruiser,7,1,-3,Neutron Star,Rendili Star Drive,Navicomputer,2200,5000,Nonrestricted,250,2800000,4,6,51,DC: 69
+Starships,Bulk Cruiser,Corellian Engineering Corporation Deep Space Recovery Vessel L-2783,5,2,-4,L-2783,Corellian Engineering Corporation,Navicomputer,100,5000,Nonrestricted,100,6500000,6,7,4,SM: 64
+Starships,Bulk Freighter,ND-47 Stalwart Bulk Freighter,5,2,-2,Stalwart-class,Nova-Drive,Navicomputer,4,200,Nonrestricted,10,70000,6,2,0,KtP: 62
+Starships,Bulk Freighter,ISO-One,5,2,-3,BFF-1 series,Phylon Freight,Navicomputer,15,1000,Nonrestricted,25,150000,4,5,4,BtR: 96
+Starships,Carrier,Quasar Fire-class Escort Carrier,6,2,-2,Quasar Fire,SoroSuub Corporation,Navicomputer,250,5000,Nonrestricted,150,1750000,6,4,4,SoT: 61
+Starships,Carrier,Ton-Falk-class Escort Carrier,7,2,-3,Ton-Falk,Kuat Drive Yards,Navicomputer,4000,9000,Restricted,800,3500000,7,3,15,SoT: 61
+Starships,Carrier,Secutor-class Battlecarrier,8,2,-4,Secutor,Kuat Drive Yards,Navicomputer,40000,28000,Restricted,14000,200000000,7,2,73,SoT: 62
+Starships,Corvette,Savrip,5,3,0,Marauder,Republic Sienar Systems,Navicomputer,120,175,Restricted,40,0,5,0,11,MPQ: 83
+Starships,Corvette,Blockade Bandit,5,2,-2,CR90,Corellian Engineering Corporation,Navicomputer,40,750,Nonrestricted,50,700000,5,2,6,BtR: 93
+Starships,Corvette,CR90 Corvette,5,3,-1,CR90,Corellian Engineering Corporation,Navicomputer,165,2500,Nonrestricted,600,1200000,5,4,6,AoR-CRB: 274 // EotE-CRB: 266 // FaD-CRB: 266
+Starships,Corvette,Cybershop Ship,5,3,-2,Modified CR90,Corellian Engineering Corporation,Navicomputer,135,1000,Nonrestricted,220,1300000,7,6,2,SM: 63
+Starships,Corvette,CR92A Assassin-Class Corvette,5,3,-1,CR92a,Corellian Engineering Corporation,Navicomputer,150,1000,Restricted,60,2500000,6,2,10,SoF: 113
+Starships,Corvette,Marauder-Class Assault Corvette,5,3,0,Marauder,Republic Sienar Systems,Navicomputer,177,175,Restricted,80,3000000,5,1,11,EotE-CRB: 267
+Starships,Corvette,Vigil-Class Corvette,5,3,-1,Vigil,Kuat Drive Yards,Navicomputer,200,1800,Restricted,200,3500000,5,0,3,AoR-CRB: 274
+Starships,Cruiser,End of Days,7,3,-1,Keldabe,Zann Consortium,Navicomputer,6000,8000,Restricted,1000,200000000,8,4,47,MPQ: 80
+Starships,Cruiser,Keldabe-Class Battleship,7,3,-1,Keldabe,Mandal Motors / Zann Consortium,Navicomputer,6000,8000,Restricted,1000,200000000,8,4,47,DC: 69
+Starships,Destroyer,ADZ-Class Destroyer,5,2,-2,Adz,Kuat Drive Yards,Navicomputer,30,250,Restricted,8,4450000,7,1,7,FaD-CRB: 266
+Starships,Dreadnought,Assertor-class Command Dreadnought,9,2,-4,Assertor-class,Kuat Drive Yards,Navicomputer,125000,145000,Restricted,20000,1100000000,10,3,320,LbE: 56
+Starships,Droid Operated,YQ-400 Monitor-Class System Patrol Ship,4,3,0,Monitor-class,The Nerfworks,None,0,0,Nonrestricted,0,200000,8,0,2,FH: 55
+Starships,Escape Pod,Escape Pod,2,3,-1,Escape Pod,Faberstien-Lago,None,1,10,Nonrestricted,5,5000,7,1,0,DitW: 14
+Starships,Escape Pod,Life Boat,3,3,-2,Life Boat,Faberstien-Lago,Astromech Droid Socket,1,50,Nonrestricted,25,15000,7,2,0,DitW: 14
+Starships,Freighter,Starlight-class Light Freighter,4,3,-1,Starlight-class,Rendili StarDrive and Surron StarTech,Navicomputer,2,85,Nonrestricted,6,69995,5,4,1,FC: 56
+Starships,Freighter,Barloz-class Medium Freighter,4,3,-2,Barloz-class,Corellian Engineering Corporation,Navicomputer,2,170,Nonrestricted,4,70000,5,4,1,KtP: 61
+Starships,Freighter,HWK-290 Light Freighter,3,4,1,HWK-290,Corellian Engineering Corporation,Navicomputer,2,75,Nonrestricted,2,70000,7,5,0,FH: 56 // FaD-CRB: 263
+Starships,Freighter,YT-1000 Light Freighter,4,3,-1,YT-1000,Corellian Engineering Corporation,Navicomputer,2,150,Nonrestricted,4,75000,5,5,1,EtU: 64
+Starships,Freighter,CorelliSpace Gymsnor-3 Light Freighter,4,3,-3,Gymsnor-3,CorelliSpace,Navicomputer,2,160,Nonrestricted,4,80000,6,4,1,FC: 58
+Starships,Freighter,GX1 Short Hauler,4,2,-2,GX1 Short Hauler,Lantillian ShipWrights,Navicomputer,4,200,Nonrestricted,6,85000,5,5,1,FC: 56
+Starships,Freighter,YG-4210 Light Freighter,4,2,-2,YG-4210,Corellian Engineering Corporation,Navicomputer,2,120,Nonrestricted,12,85000,7,4,1,EtU: 64
+Starships,Freighter,YT-1200 Light Freighter,4,2,-1,YT-1200,Corellian Engineering Corporation,Navicomputer,2,150,Nonrestricted,6,90000,5,5,1,FH: 57
+Starships,Freighter,CorelliSpace Gymsnor-4 Light Freighter,4,3,-2,Gymsnor-4,CorelliSpace,Navicomputer,2,160,Nonrestricted,4,95000,6,5,1,FC: 59
+Starships,Freighter,Penumbra Stealth Freighter,5,3,-1,Penumbra-class,Brennkeyes Syndicate,Navicomputer,3,90,Nonrestricted,4,100000,9,0,1,KtP: 62
+Starships,Freighter,YT-1300 Light Freighter,4,3,-1,YT-1300,Corellian Engineering Corporation,Navicomputer,2,165,Nonrestricted,6,100000,4,6,2,EotE-CRB: 264
+Starships,Freighter,YG-4400 Light Freighter,4,4,-1,YG-4400,Corellian Engineering Corporation,Navicomputer,2,75,Nonrestricted,2,110000,5,2,1,SoF: 112
+Starships,Freighter,Ghtroc 720 Light Freighter,4,3,-2,720,Ghtroc Industries,Navicomputer,2,200,Nonrestricted,10,112000,8,4,1,EtU: 62
+Starships,Freighter,ZH-25 Questor Light Freighter,4,3,-1,Questor,Starfield Industries,Navicomputer,2,100,Nonrestricted,6,115000,6,4,1,FaD-CRB: 265
+Starships,Freighter,CEC HWK-1000 Light Freighter,4,5,1,HWK-1000,Corellian Engineering Corporation,Navicomputer,2,100,Nonrestricted,4,120000,10,5,0,FC: 59
+Starships,Freighter,Wayfarer-Class Medium Freighter,5,3,-2,Wayfarer,Kuat Systems Engineering,Navicomputer,10,850,Nonrestricted,6,120000,5,5,1,EotE-CRB: 263
+Starships,Freighter,YT-1210 Light Freighter,4,4,-1,YT-1210,Corellian Engineering Corporation,Navicomputer,2,100,Nonrestricted,4,120000,5,3,1,SoF: 112
+Starships,Freighter,YT-2000 Light Freighter,4,3,0,YT-2000,Corellian Engineering Corporation,Navicomputer,2,170,Nonrestricted,7,120000,5,5,2,FC: 60
+Starships,Freighter,YV-560 Light Freighter,4,3,0,YV-560,Corellian Engineering Corporation,Navicomputer,2,80,Nonrestricted,5,120000,7,4,1,EtU: 66
+Starships,Freighter,YKL-37R Nova Courier,4,3,0,YKL-37R Nova Courier,Gallofree Yards Inc.,Navicomputer,2,100,Nonrestricted,6,130000,6,5,4,FC: 56
+Starships,Freighter,YT-2400 Light Freighter,4,3,0,YT-2400,Corellian Engineering Corporation,Navicomputer,2,140,Nonrestricted,6,130000,5,5,2,EotE-CRB: 265
+Starships,Freighter,HT-2200 Medium Freighter,5,2,-2,HT-2200,Corellian Engineering Corporation,Navicomputer,4,800,Nonrestricted,8,140000,5,5,2,FH: 56 // FaD-CRB: 264
+Starships,Freighter,Nightflyer,4,3,1,YT-2400,Corellian Engineering Corporation,Navicomputer,1,95,Nonrestricted,6,160000,5,0,2,BtR: 30
+Starships,Freighter,Simiyiar Light Freighter,4,3,0,Simiyiar,Mon Calamari Shipyards,Navicomputer,2,90,Nonrestricted,5,165000,6,4,2,FaD-CRB: 264
+Starships,Freighter,Suwantek TL-1200 Transport,5,3,-3,TL-1200,Suwantek Systems,Navicomputer,6,600,Nonrestricted,8,170000,6,4,2,LoNH: 115
+Starships,Freighter,D-Type Stealth Freighter,4,2,-3,D-Type Stealth Freighter,Nubia Star Drives Inc.,Navicomputer,2,125,Nonrestricted,3,200000,7,0,0,SoF: 110
+Starships,Freighter,ILH-KK Citadel-Class Light Freighter,4,3,-1,Citadel,Koensayr Manufacturing,Navicomputer,3,95,Nonrestricted,14,200000,6,4,5,EotE-CRB: 260
+Starships,Freighter,Starwind Pleasure Yacht,5,3,-2,Starwind,Kuat Drive Yards,Navicomputer,5,85,Nonrestricted,10,210000,6,2,2,EotE-CRB: 263
+Starships,Freighter,Darvro-class Light Freighter,4,4,0,Darvro,Gimmellian Shipworks,Navicomputer,3,120,Restricted,4,250000,9,4,3,SoR: 118
+Starships,Freighter,YV-929 Light Freighter,4,3,-1,YV-929,Corellian Engineering Corporation,Navicomputer,4,80,Nonrestricted,6,380000,6,1,6,AoR-CRB: 275* // DC: 68
+Starships,Frigate,Flatline and Brilliance,5,3,-1,Interceptor IV,Corellian Engineering Corporation,Navicomputer,20,10000,Nonrestricted,5,300000,7,4,3,MPQ: 81
+Starships,Frigate,IR-3F-Class Light Frigate,5,4,-1,IR-3F,Republic Sienar Systems,None,20,1800,Nonrestricted,10,1000000,6,2,4,FaD-CRB: 267
+Starships,Frigate,DP20 Gunship,5,4,-1,DP20,Corellian Engineering Corporation,Navicomputer,91,300,Nonrestricted,0,3200000,6,1,18,EotE-CRB: 266
+Starships,Frigate,Xanter-Class Deep-Space Exploration Frigate,6,1,-2,Xanter,Rendili Star Drive,Navicomputer,150,2000,Nonrestricted,50,3750000,7,2,11,EtU: 67
+Starships,Frigate,Imperial System Patrol Craft IPV-1,5,3,-1,IPV-1,Sienar Fleet Systems,None,12,20,Restricted,10,4000000,5,2,5,BtR: 93
+Starships,Frigate,Lancer-Class Frigate,5,2,-1,Lancer,Kuat Drive Yards,Navicomputer,800,200,Restricted,40,4760000,7,0,20,AoR-CRB: 278
+Starships,Frigate,Ubrikkian Industries Kossak-Class Frigate,6,3,-2,Kossak-Class,Ubrikkian Industries,Navicomputer,975,3500,Nonrestricted,90,8300000,7,3,30,LoNH: 117
+Starships,Frigate,EF76 Nebulon-B Escort Frigate,6,3,-1,Nebulon-B,Kuat Drive Yards,Navicomputer,920,4000,Restricted,75,8500000,7,2,27,AoR-CRB: 278* // EotE-CRB: 268
+Starships,Frigate,Shadow Raptor,6,3,1,Nebulon-B,Kuat Drive Yards,Navicomputer,683,3500,Restricted,225,8500000,7,0,39,DitW: 13
+Starships,Frigate,MC30c Frigate,6,4,0,MC30c,Mon Calamari Shipyards,Navicomputer,820,3500,Restricted,95,9500000,6,3,40,SoR: 118
+Starships,Frigate,Surveyor-class Reconnaissance Frigate,6,3,-1,Surveyor-class,Kuat Drive Yards,Navicomputer,900,3700,Restricted,80,9600000,8,2,22,LbE: 53
+Starships,Frigate,Starbolt Assault Carrier,6,3,-1,Starbolt,Corellian Engineering Corporation,Navicomputer,800,4000,Restricted,250,10000000,8,2,10,DC: 70
+Starships,Frigate,Munificent-class Command Control and Communications Frigate,7,2,0,Munificent-class,Hoersch-Kessel Drive Inc,Navicomputer,1100,10000,Nonrestricted,850,12300000,9,1,108,LbE: 52
+Starships,Gunship,Barrage Gunship,5,3,-1,Barrage-class,Alto Systems,Navicomputer,7,90,Nonrestricted,5,145000,8,3,6,KtP: 62
+Starships,Heavy Cruiser,Dreadnought-Class Heavy Cruiser,7,2,-2,Dreadnought,Rendili Star Drive,Navicomputer,16000,7500,Nonrestricted,3000,7200000,6,4,40,AoR-CRB: 279
+Starships,Heavy Cruiser,Vindicator-Class Heavy Cruiser,7,3,-1,Vindicator,Sienar Fleet Systems,Navicomputer,2551,7500,Restricted,400,10400000,8,0,58,AoR-CRB: 280
+Starships,Heavy Cruiser,Interdictor-Class Heavy Cruiser,7,2,-2,Interdictor-class,Sienar Fleet Systems,Navicomputer,2807,6500,Restricted,80,15400000,8,0,20,AoR-CRB: 280 // FC: 60
+Starships,Heavy Freighter,Temple-Class Heavy Freighter,6,1,-3,Temple,Kuat Drive Yards,Navicomputer,50,30000,Nonrestricted,150,950000,6,6,0,AoR-CRB: 443
+Starships,Heavy Star Cruiser,MC80 Liberty Type Star Cruiser,8,2,-2,Liberty,Mon Calamari Shipyards,Navicomputer,5400,70000,Nonrestricted,1200,104000000,7,4,74,AoR-CRB: 284
+Starships,Heavy Star Cruiser,MC80A Home One type Heavy Star Cruiser,9,2,-2,Home One type,Mon Calamari Shipyards,Navicomputer,5480,85000,Nonrestricted,1200,112000000,8,4,158,LbE: 54
+Starships,Heavy Star Cruiser,Independence,8,2,-2,Home One,Mon Calamari Shipyards,Navicomputer,5400,20000,Nonrestricted,1200,150000000,7,2,78,SoR: 60
+Starships,Light Assault Transport,Surronian Conqueror-Class Assault Ship,4,3,0,Conqueror,Surronian,Navicomputer,3,80,Nonrestricted,1,100500,9,4,2,DC: 67
+Starships,Light Assault Transport,4R3 Light Assault Transport,4,3,-1,4R3,Telgorn Corporation,Navicomputer,5,80,Nonrestricted,16,300000,7,4,5,DC: 67
+Starships,Light Freighter,G9 Rigger Light Freighter,4,2,-2,Rigger-class,Corellian Engineering Corporation,Navicomputer,2,80,Nonrestricted,6,55000,5,4,3,FaD-CRB: 262
+Starships,Light Freighter,MC-18 Light Freighter,4,3,0,MC-18,Mon Calamari Shipyards,Navicomputer,2,150,Nonrestricted,5,140000,6,2,1,DA: 62
+Starships,Light Freighter,VCX-100 Light Freighter,5,3,-3,VCX-100,Corellian Engineering Corporation,Navicomputer,6,200,Nonrestricted,6,155000,8,5,3,KtP: 63
+Starships,Patrol Boat,Incom A-24 Sleuth-Class Scout Ship,3,4,1,Sleuth,Incom Corporation,Navicomputer,1,20,Nonrestricted,1,45000,6,3,1,EtU: 59
+Starships,Patrol Boat,JM-5000 Jumpmaster Long Range Scout,4,4,1,JumpMaster,Corellian Engineering Corporation,Navicomputer,1,30,Nonrestricted,1,55000,5,2,1,OaA: 71 // EotE-CRB: 256
+Starships,Patrol Boat,PPB Pocket Patrol Boat,3,4,0,PPB,Corellian Engineering Corporation,None,2,12,Nonrestricted,0,70000,5,2,1,SoF: 109
+Starships,Patrol Boat,Bloodblade,4,4,-1,Firespray,Kuat Systems Engineering,Navicomputer,3,40,Nonrestricted,6,80000,4,0,2,SoF: 143*
+Starships,Patrol Boat,Firespray-31 System Patrol Craft,4,4,0,Firespray,Kuat Systems Engineering,Navicomputer,3,40,Nonrestricted,4,80000,4,4,2,EotE-BGR: 43* // EotE-CRB: 255
+Starships,Patrol Boat,Regulator-Class Patrol Vessel,4,4,0,Regulator-class,Sienar Fleet Systems,None,2,18,Nonrestricted,6,110000,6,2,2,FH: 55
+Starships,Patrol Boat,Loronar E-9 Explorer-Class Armed Long-Range Scout Vessel,4,3,-1,Explorer,Loronar Corporation,Navicomputer,4,60,Nonrestricted,4,120000,6,4,2,EtU: 61
+Starships,Patrol Boat,The Diligent,5,3,-2,PB-950,Corellian Engineering Corporation,Navicomputer,4,180,Nonrestricted,8,125000,5,3,4,SoF: 127
+Starships,Patrol Boat,Incom A-36 Pathfinder-Class Force Reconnaissance Vessel,4,4,0,Pathfinder,Incom Corporation,Navicomputer,4,40,Nonrestricted,4,135000,7,2,3,EtU: 60
+Starships,Patrol Boat,Imperial Customs Frigate,4,3,-2,Customs Frigate,Rendili StarDrive,Navicomputer,12,140,Restricted,10,140000,6,2,7,FC: 54
+Starships,Patrol Boat,GAT-12H Skipray Blastboat,4,4,-1,Skipray,Sienar Fleet Systems,Navicomputer,5,20,Nonrestricted,0,150000,6,2,4,EotE-CRB: 259
+Starships,Patrol Boat,PB-950 Patrol Boat,5,3,-2,PB-950,Corellian Engineering Corporation,Navicomputer,4,150,Nonrestricted,8,150000,5,3,4,SoF: 110
+Starships,Patrol Boat,MandalMotors M22-T Krayt Gunship,4,4,-1,M22-T Krayt,MandalMotors,Navicomputer,2,20,Nonrestricted,2,185000,6,2,3,LoNH: 114
+Starships,Racing Vessel,S-Type Racing Sloop,3,6,1,S-Type Racing Sloop,Nubia Star Drives Inc.,Navicomputer,2,20,Nonrestricted,2,160000,7,0,0,SoF: 111
+Starships,Scout Ship,Vangaard Pathfinder Scout Ship,4,4,1,Pathfinder,Vangaard Industries,Navicomputer,2,45,Nonrestricted,2,45000,6,2,1,FaD-CRB: 260
+Starships,Scout Ship,The Deep Dark,4,3,0,Skywatcher-class,Sienar Fleet Systems,Navicomputer,12,50,Restricted,6,120000,5,3,2,BtR: 70
+Starships,Shuttle,Shuttle Pod,2,4,0,ISP-6,Cygnus Spaceworks,None,1,8,Restricted,0,15000,6,1,2,DitW: 20
+Starships,Shuttle,Kappa-Class Shuttle,4,3,0,Kappa,Sienar Fleet Systems,Navicomputer,4,150,Restricted,40,80000,6,2,4,DitW: 20
+Starships,Shuttle,Kappa-Class Shuttle,4,3,0,Kappa,Republic Sienar Systems,Navicomputer,4,250,Restricted,40,110000,5,2,3,DA: 63
+Starships,Shuttle,Curich-Class Shuttle,5,3,0,Curich,Sienar Fleet Systems,Navicomputer,3,300,Restricted,50,130000,5,2,1,DA: 61
+Starships,Shuttle,Lambda-Class T-4A Long Range Shuttle,4,3,0,Lambda,Sienar Fleet Systems and Cygnus Spaceworks,Navicomputer,6,200,Restricted,20,140000,6,2,3,AoR-BGR: 43* // AoR-CRB: 273 // EotE-CRB: 256 // FaD-CRB: 260
+Starships,Shuttle,Sentinel-Class Landing Craft,4,3,-1,Sentinel,Sienar Fleet Systems and Cygnus Spaceworks,Navicomputer,6,200,Restricted,20,140000,6,2,3,AoR-CRB: 273
+Starships,Small Transport,Selonian Coneship,3,1,-5,Coneship,Various Selonian Dens,None,2,2,Nonrestricted,0,5000,7,0,0,SoF: 107
+Starships,Small Transport,YT-1760 Small Transport,4,4,1,YT-1760,Corellian Engineering Corporation,Navicomputer,2,70,Nonrestricted,8,80000,5,5,1,FH: 58
+Starships,Space Defense Platform,Golan I Space Defense Platform,8,0,0,Golan I,Golan Arms,None,5000,20000,Restricted,10000,26000000,9,4,39,FC: 61
+Starships,Star Battlecruiser,Praetor II-Class Star Battlecruiser,9,2,-3,Praetor II,Kuat Drive Yards,Navicomputer,109000,78000,Restricted,14000,700000000,9,1,150,AoR-CRB: 283
+Starships,Star Destroyer,Victory-Class Star Destroyer,8,1,-3,Victory II,Kuat Drive Yards,Navicomputer,6107,6500,Restricted,1600,50000000,6,4,60,AoR-CRB: 284 // FaD-CRB: 267
+Starships,Star Destroyer,Imperial I-Class Star Destroyer,8,2,-3,Imperial I,Kuat Drive Yards,Navicomputer,37085,15000,Restricted,9700,150000000,7,2,130,AoR-CRB: 281
+Starships,Star Destroyer,The Eternal Wrath,8,2,-3,Interdictor,Sienar Fleet Systems,Navicomputer,37085,12500,Restricted,5000,175000000,8,0,32,OaA: 75
+Starships,Starfighter,Koensayr AD-1S Moduilar Multi-role Starfighter,3,3,0,AD-1S,Koensayr Manufacturing,None,1,10,Nonrestricted,2,25000,7,8,0,SM: 62
+Starships,Starfighter,Delta-6 System Defense Starfighter,3,4,1,Delta-6,Kuat Systems Engineering,None,1,8,Nonrestricted,0,30000,4,2,1,FaD-CRB: 258
+Starships,Starfighter,Cloakshape Fighter,3,4,0,CloakShape,Kuat Systems Engineering,None,1,12,Nonrestricted,0,38000,4,3,2,EotE-CRB: 254
+Starships,Starfighter,Modified Cloakshape Starfighter,3,4,0,CloakShape,Kuat Systems Engineering,None,1,12,Nonrestricted,0,38000,4,0,2,SoF: 144
+Starships,Starfighter,Cutlass-9 Patrol Fighter,3,3,0,Cutlass,SoroSuub Corporation,Navicomputer,1,12,Nonrestricted,0,40000,4,3,3,MPQ: 78
+Starships,Starfighter,HH-87 Starhopper Starfighter,3,4,1,HH-87 Starhopper,MandalMotors,Navicomputer,1,6,Nonrestricted,0,50000,4,2,1,LoNH: 114
+Starships,Starfighter,TIE/LN Starfighter,3,5,3,TIE Series,Sienar Fleet Systems,None,1,4,Restricted,0,50000,4,0,1,AoR-BGR: 43 // AoR-CRB: 270 // OaA: 44 // EotE-BGA: 26 // EotE-CRB: 257 // BtR: 78 // FaD-CRB: 261
+Starships,Starfighter,CL-1c Lancet Interceptor,3,5,1,CL-1c,Corellian Engineering Corporation,Navicomputer,1,4,Nonrestricted,1,55000,5,0,1,SoF: 108
+Starships,Starfighter,MandalMotors M3-A Scyk Interceptor,3,5,2,M3-A Scyk,MandalMotors,Navicomputer,1,4,Nonrestricted,0,55000,4,2,1,LoNH: 113
+Starships,Starfighter,R-41 Starchaser,3,4,0,R-41 Starchaser,Hoersch-Kessel Drive Inc.,Navicomputer,1,6,Nonrestricted,0,55000,7,2,3,SoT: 55
+Starships,Starfighter,Z-95-AF4 Headhunter,3,4,1,Headhunter,Incom/Subpro,None,1,8,Nonrestricted,0,55000,4,2,2,OaA: 21 // EotE-CRB: 258 // BtR: 35*
+Starships,Starfighter,Blade-32 Superiority Fighter,3,4,-2,Blade-32,Tarrvin-on-Kallik,Navicomputer,2,10,Nonrestricted,1,60000,7,1,3,KtP: 60
+Starships,Starfighter,LAF-250 Starfighter,3,4,0,LAF-250,Corellian Engineering Corporation,None,1,6,Nonrestricted,0,60000,4,1,1,SoF: 108
+Starships,Starfighter,"Alpha-3 Nimbus ""V-Wing"" Interceptor",3,4,2,A3-Nimbus,Kuat Systems Engineering,Astromech Droid Socket,2,5,Nonrestricted,0,70000,7,2,2,SoT: 57
+Starships,Starfighter,HLAF-500 Starfighter,3,4,1,HLAF-500,Corellian Engineering Corporation,Navicomputer,1,6,Nonrestricted,0,70000,5,1,1,SoF: 108
+Starships,Starfighter,"TIE/AG ""Aggressor"" Starfighter",3,4,1,TIE-series,Sienar Fleet Systems,None,2,7,Restricted,0,75000,9,0,2,SoT: 57
+Starships,Starfighter,TIE/IN Interceptor,3,6,3,TIE Series,Sienar Fleet Systems,None,1,4,Restricted,0,75000,5,0,1,AoR-BGR: 43 // AoR-CRB: 270 // OaA: 43
+Starships,Starfighter,Delta-7 Aethersprite Interceptor,3,5,2,Delta-7,Kuat Systems Engineering,Astromech Droid Socket,2,4,Nonrestricted,0,78000,6,2,1,FaD-CRB: 259
+Starships,Starfighter,A-7 Hunter Interceptor,3,5,2,A-series,Kuat Drive Yards,None,1,4,Nonrestricted,0,80000,6,1,1,DC: 65
+Starships,Starfighter,BTL-A4 Y-Wing Attack Starfighter,3,4,0,BTL Y-Wing,Koensayr Manufacturing,Astromech Droid Socket,1,10,Nonrestricted,0,80000,4,1,3,AoR-CRB: 268 // EotE-BGR: 43 // EotE-CRB: 257 // FaD-CRB: 257
+Starships,Starfighter,BTL-S3 Y-Wing Attack Starfighter,3,4,0,BTL Y-Wing,Koensayr Manufacturing,Astromech Droid Socket,2,10,Nonrestricted,0,80000,4,1,3,AoR-CRB: 268 // EotE-CRB: 257 // FaD-CRB: 257
+Starships,Starfighter,Preybird-Class Starfighter,3,4,-1,Preybird,SoroSuub,Navicomputer,2,8,Nonrestricted,0,84000,8,1,3,DC: 66
+Starships,Starfighter,Delta-12 Skysprite,3,4,1,D-12,Kuat Systems Engineering,Astromech Droid Socket,1,8,Nonrestricted,1,85000,8,3,0,FaD-CRB: 259
+Starships,Starfighter,"Z-95-AF4-H ""Heavy-95"" Multi-role Starfighter",3,4,0,Heavy-95,Incom/SubPro,Astromech Droid Socket,2,6,Nonrestricted,0,85000,5,1,2,SoT: 56
+Starships,Starfighter,A-Type Stiletto,3,4,0,A-type Stiletto,Nubia Star Drives Inc.,None,1,8,Nonrestricted,0,90000,7,0,2,SoF: 107
+Starships,Starfighter,"R60 ""T-Wing"" Interceptor",3,6,-1,R-60 T-wing,Hoersch-Kessel Drive Inc.,Navicomputer,1,5,Nonrestricted,0,95000,7,1,2,SoT: 56
+Starships,Starfighter,Tam Blackstar's TIE Hunter,3,6,3,TIE Series,Sienar Fleet Systems,Navicomputer,1,4,Restricted,0,100000,7,0,3,OaA: 42
+Starships,Starfighter,Modified TIE Bomber,3,3,-1,TIE Series,Sienar Fleet Systems,None,1,10,Restricted,0,110000,5,2,1,OS: 45
+Starships,Starfighter,TIE/SA Tactical Bomber,3,4,0,TIE Series,Sienar Fleet Systems,None,1,10,Restricted,0,110000,5,0,3,AoR-CRB: 272
+Starships,Starfighter,"T-65B ""X-Wing"" Multi-Role Starfighter",3,5,1,T-65B X-wing,Incom Corporation,Astromech Droid Socket,2,10,Nonrestricted,0,120000,5,1,2,AoR-BGR: 43 // AoR-CRB: 267 // FaD-CRB: 261
+Starships,Starfighter,Tallanx-class Stealth Fighter,3,5,2,Tallanx,Gimmellian Shipworks,Navicomputer,1,6,Restricted,0,120000,9,2,1,SoR: 117
+Starships,Starfighter,"A/SF-01 ""B-Wing"" Heavy Fast Attack Starfighter",3,4,-1,A/SF-01 B-Wing,Slayn & Korpil,Navicomputer,1,15,Nonrestricted,0,150000,6,1,4,AoR-CRB: 268
+Starships,Starfighter,M12-L Kimogila Heavy Starfighter,4,4,-1,M12-L Kimogila,MandalMotors,Navicomputer,1,20,Nonrestricted,0,150000,5,2,3,KtP: 60
+Starships,Starfighter,"RZ-1 ""A-Wing"" Light Interceptor",3,6,3,"RZ-1 ""A-Wing""",Incom/Alliance Underground Engineering,Navicomputer,1,4,Nonrestricted,0,150000,6,1,2,AoR-CRB: 266
+Starships,Starfighter,E-7 E-Wing Multi-Role Starfighter,3,5,1,E-Wing,FreiTek Incorporated,Astromech Droid Socket,2,8,Nonrestricted,0,160000,8,1,2,SoT: 52
+Starships,Starfighter,StarViper M-2,3,4,1,StarViper M-2,MandalMotors,Navicomputer,1,12,Nonrestricted,0,160000,7,0,2,MPQ: 81
+Starships,Starfighter,H-60 Tempest Heavy Bomber,4,3,-1,H-60 Tempest,Slayn & Korpil,None,2,12,Nonrestricted,0,172000,5,2,4,SoT: 53
+Starships,Starfighter,Miy'til Starfighter,2,4,1,Miy'til,Olanji/Charubah,Astromech Droid Socket,1,5,Nonrestricted,0,210000,8,1,2,KtP: 61
+Starships,Starfighter,"BTS-A2 ""H-Wing"" Long-range Strike Starfighter",3,3,-2,BTS-A2 H-wing,Koensayr Manuracturing,Navicomputer,3,15,Nonrestricted,1,225000,6,1,3,SoT: 54
+Starships,Starfighter,TIE/IT Interdictor Starfighter,3,4,-2,TIE-series,Sienar Fleet Systems,None,1,10,Restricted,0,253000,7,0,3,SoT: 59
+Starships,Starfighter,"TIE/HU ""Hunter"" Multi-role Starfighter",3,5,2,TIE-series,Sienar Fleet Systems,Navicomputer,1,6,Restricted,0,275000,9,0,3,SoT: 58
+Starships,Starfighter,"TIE/D ""Defender"" Multi-Role Starfighter",3,4,2,TIE Series,Sienar Fleet Systems,Navicomputer,1,5,Restricted,0,300000,8,0,3,AoR-CRB: 271
+Starships,Starfighter,"TIE/PH ""Phantom"" Multi-role Stealth Starfighter",3,5,2,TIE-series,Sienar Fleet Systems,Navicomputer,2,8,Restricted,0,365000,9,0,1,SoT: 60 // SoR: 127
+Starships,Starliner,Indulgent-Class Luxury Starliner,7,1,-1,Indulgent-class,Leonore Luxury Liners Incorporated,Navicomputer,850,3200,Nonrestricted,1500,25500000,7,1,4,FH: 59
+Starships,S-Type Racing Sloop,Consular-Class Light Assault Cruiser,5,3,-2,Consular,Corellian Engineering Corporation,Navicomputer,9,3200,Nonrestricted,16,3400000,5,4,5,AoR-CRB: 276
+Starships,S-Type Racing Sloop,Renegade's Blood,5,4,0,Consular,Corellian Engineering Corporation,Navicomputer,9,3200,Nonrestricted,16,3400000,5,3,7,MPQ: 82
+Starships,S-Type Racing Sloop,MC40a Light Cruiser,6,2,-1,MC40a,Mon Calamari Shipyards,Navicomputer,3770,5000,Restricted,650,15500000,6,4,40,SoR: 119
+Starships,Transport,Space Master Medium Transport,5,2,-4,Space Master,Kuat Drive Yards,Navicomputer,9,800,Nonrestricted,0,150000,4,2,2,EotE-CRB: 262
+Starships,Transport,GR-75 Medium Transport,5,3,-3,GR-75,Gallofree Yards Inc.,Navicomputer,7,1000,Nonrestricted,100,180000,4,2,0,EotE-CRB: 261
+Starships,Transport,Action VI Bulk Transport,5,2,-3,Action VI,Corellian Engineering Corporation,Navicomputer,20,10000,Nonrestricted,5,200000,5,4,0,EotE-CRB: 260*
+Starships,Transport,Xiytiar-Class Heavy Transport,5,2,-3,Xiytiar,TransGalMeg Industries,Navicomputer,10,2000,Nonrestricted,12,200000,5,4,0,EtU: 63
+Starships,Transport,Y164 Slave Transport,5,3,-2,Y164,Rendili StarDrive,Navicomputer,15,120,Nonrestricted,1200,245000,6,3,2,LoNH: 115
+Starships,Transport,Mobquet Medium Transport,5,1,-4,MMT,Mobquet Swoops and Speeders,Navicomputer,4,5000,Nonrestricted,90,275000,5,5,2,FC: 57
+Starships,Transport,CSS-1 Corellian Star Shuttle,5,3,-2,CCS-8,Corellian Engineering Corporation,Navicomputer,8,1000,Nonrestricted,200,325000,6,4,0,SoF: 110
+Starships,Transport,YZ-775 Medium Transport,5,2,-3,YZ-775,Corellian Engineering Corporation,Navicomputer,8,850,Nonrestricted,0,500000,3,2,5,DC: 68
+Starships,Transport,Ubrikkian Industries Seltiss-2 Caravel,4,3,-1,Seltiss-2,Ubrikkian Industries,None,8,200,Nonrestricted,12,550000,6,4,2,LoNH: 115
+Starships,Transport,Armos Modular Transport,6,2,-2,Armos,SoroSuub,Navicomputer,150,10000,Nonrestricted,1000,780000,8,4,0,FH: 59
+Starships,Transport,Star Galleon Armed Transport,6,1,-2,Star Galleon,Kuat Drive Yards,Navicomputer,150,10000,Restricted,300,1500000,7,2,11,AoR-CRB: 442 // EotE-CRB: 265
+Starships,Yacht,CEC WUD-500 Star Yacht,4,4,-1,WUD-500,Corellian Engineering Corporation,Navicomputer,2,65,Nonrestricted,6,98500,6,5,2,FC: 55
+Starships,Yacht,SoroSuub Luxury 3000 Space Yacht,4,3,0,Luxury 3000,SoroSuub Corporation,Navicomputer,2,100,Nonrestricted,10,120000,6,4,0,EotE-CRB: 262
+Starships,Yacht,The Venture,4,3,2,Courier-class,Nubia Star Drives Inc.,Navicomputer,19,50,Nonrestricted,25,185000,5,3,3,JoY: 91
+Starships,Yacht,Luxurious-class Yacht,4,4,1,Luxurious-class,Ghtroc Industries,Navicomputer,3,80,Nonrestricted,12,210000,6,4,0,FH: 58
+Starships,Yacht,Baudo-Class Star Yacht,4,4,1,Baudo,Mendel Baudo Shipyards,Navicomputer,2,60,Nonrestricted,8,250000,9,6,1,DA: 60
+Starships,Yacht,Baudo-class Star Yacht,4,4,1,Baudo-class,Mendel Baudo Shipyards,Navicomputer,2,60,Nonrestricted,8,250000,9,6,1,FC: 57
+Starships,Yacht,J-Type Star Skiff,4,4,-1,J-Type Star Skiff,Nubia Star Drives Inc.,Navicomputer,3,90,Nonrestricted,3,260000,7,0,2,SoF: 111
+Starships,Yacht,Ubrikkian Industries Modified Minstrel-Class Space Yacht,5,3,-1,Minstrel-Class Space Yacht,Ubrikkian Industries,Navicomputer,37,800,Nonrestricted,75,1750000,7,3,12,LoNH: 116

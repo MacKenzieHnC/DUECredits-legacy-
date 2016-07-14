@@ -1,0 +1,26 @@
+General Store
+<html>They come here, they look around, they no buy. <br>Why nobody buy? Ehhhhhh..</html>
+Weapons2,12,1
+<html><font size="5"><a href = "Derp">Ranged (Light)</a></html>, , , , , , , , , , , 
+FWG-5 Flechette Pistol,Ranged (Light),6,3,Short,1,2,(R) 1914,7,<html>Guided 3<br> Limited Ammo 3</html>,<html>FC:44</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Successes.gif" alt="Smiley face" height="24" width="24"></html>
+Armor0,9,0
+Gear13,6,6
+<html><font size="5"><a href = "Derp">Cybernetics</a></html>, , , , , 
+Implant Armor,19350,0,6,<html>AoR-CRB:190<br>EotE-CRB:174</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Successes.gif" alt="Smiley face" height="24" width="24"></html>
+<html><font size="5"><a href = "Derp">Droids</a></html>, , , , , 
+Industrial Automation Hologlide J57 Cam Droid,1824,0,3,<html>SoF:102</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+<html><font size="5"><a href = "Derp">Drugs</a></html>, , , , , 
+Ryll (1 dose),(R) 127,1,4,<html>LoNH:110</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+<html><font size="5"><a href = "Derp">Medical</a></html>, , , , , 
+Bacta (liter),45,1,1,<html>AoR-CRB:192<br>EotE-CRB:176<br>FaD-CRB:185</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+<html><font size="5"><a href = "Derp">Survival</a></html>, , , , , 
+Fabritech CN-15 Camouflage Netting,258,4,2,<html>DC:57</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+<html><font size="5"><a href = "Derp">Tools</a></html>, , , , , 
+Chiles-Zraii Foreman-Series Owner's Workshop Manual,234,1,0,<html>SoT:46</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Successes.gif" alt="Smiley face" height="24" width="24"></html>
+Tool Kit,861,4,2,<html>AoR-BGR:36<br>AoR-CRB:198<br>EotE-BGR:36<br>EotE-CRB:181<br>FaD-BGR:36<br>FaD-CRB:189</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+Attachments3,7,1
+<html><font size="5"><a href = "Derp">Weapon Attachment</a></html>, , , , , , 
+Filed Front Sight,57,0,1,0,<html>Aor-CRB: 201<br>EotEotE-CRB: 190</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+Poison Reservoir,(R) 928,0,1,5,<html>LoNH: 105</html>,<html><img src="file:C:\Users\Lepre\Desktop\DUECredits\DUECredits (exe)\resources\Success.gif" alt="Smiley face" height="24" width="24"></html>
+Transportation0,15,0
+Starships0,16,0
